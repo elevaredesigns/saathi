@@ -1,0 +1,302 @@
+1	Designed for the user the others forgot.
+2	Voice on every field
+3	Speak any answer instead of typing it.
+4	Slow mode
+5	More time, fewer steps, gentler pacing.
+6	Larger text
+7	Scales up without breaking the layout.
+8	Audio labels
+9	Buttons and labels read aloud.
+10	Family / proxy mode
+11	Act for a parent or child, clearly framed.
+12	Offline support
+13	Designed for weak and intermittent signal.
+14	Colour-blind safe
+15	Status never relies on colour alone.
+16	Screen-reader ready
+17	Semantic structure and live announcements.
+18	Saathi is a speculative civic project with its own identity — two arcs and a point, drawn from the tricolour — paired with a clear design-concept disclaimer. It never uses the State Emblem of India, which is legally protected.
+19	Six flows, designed end to end.
+20	Onboarding
+21	From install to ready, in your language.
+22	Language, Aadhaar, OTP, a quick profile and accessibility setup — nine calm screens.
+23	Life Moments
+24	Find services by what's happening to you.
+25	A new baby surfaces birth registration, vaccination and benefits — together.
+26	Voice Form Entry
+27	Fill a form by speaking.
+28	Tap the mic, speak, confirm the structured answer, and the field fills itself.
+29	Track Application
+30	Know exactly where things stand.
+31	A vertical timeline with completed, current and pending steps — and named officers.
+32	What I'm Owed
+33	Discover schemes you qualify for.
+34	Profile-based scheme cards with transparent 'why you qualify' reasons.
+35	Family Proxy
+36	Do it for someone you care for.
+37	A persistent ‘helping Sunita’ banner keeps every action in the right context.
+38	Citizens don't think in departments. They think in moments, needs and entitlements.
+39	Every service in Saathi is reachable through three lenses that meet at one person.
+40	Moments
+41	Life events — a birth, a job, a move, a loss.
+42	Needs
+43	What to do right now — a document, a payment, a proof.
+44	Entitlements
+45	What you're owed — schemes, pensions, subsidies.
+46	Citizen
+47	India speaks 22 languages. Saathi listens in your own.
+48	Three levels of going local
+49	Translation
+50	The same words, rendered in a new script.
+51	Localization
+52	Local norms too — dates, currency, names, number formats.
+53	Transcreation
+54	Rebuilt for the language. Designed in Hindi first, then ported.
+55	Per-script line-height keeps Devanagari and Tamil legible.
+56	Names render in the reader's own script.
+57	The whole UI swaps in 200ms — no reload.
+58	Every screen, the assistant, the department consoles and this case study are available in 23 languages — English and all 22 of the Eighth Schedule. Hindi, Bengali and Tamil were written first, alongside English; the other 19 are machine-assisted and marked for native-speaker review.
+59	Four people. Four very different needs.
+60	Rakesh Verma
+61	34 · Tier-2 · Kanpur
+62	Shopkeeper. Smartphone-confident, but burned by fake-portal scams.
+63	Wants a birth certificate for his newborn without taking a day off or paying an agent.
+64	If it looks official, I still double-check. Twice.
+65	Trust signals he can verify
+66	Hindi-first interface
+67	Clear status, no jargon
+68	Sunita Devi
+69	29 · Rural · Bihar
+70	Farmer. Low literacy, shares one phone with the family.
+71	Wants to claim a maternity benefit she heard about but can't read the form.
+72	I can speak it. I can't always read it.
+73	Voice input and read-aloud
+74	Large taps, few steps
+75	Works on a weak signal
+76	Vikram Singh
+77	68 · Senior · Chennai
+78	Retired teacher. Patient, careful, prefers Tamil.
+79	Wants his pension status without calling his son every time.
+80	Don't hurry me. Just tell me clearly.
+81	Larger text and slow mode
+82	Audio labels
+83	Tamil throughout
+84	Ananya Sharma
+85	26 · Urban · Bengaluru
+86	Analyst. Fluent in English, zero patience for friction.
+87	Wants to renew a document on her commute, in two minutes.
+88	If it takes more than the train ride, I'll abandon it.
+89	Speed and keyboard flow
+90	Receipts she can save
+91	No hand-holding
+92	How each person uses Saathi
+93	Persona
+94	Entry point
+95	Key need
+96	Voice
+97	Rakesh
+98	Moments
+99	Verifiable trust
+100	Sometimes
+101	Sunita
+102	Voice
+103	Read-aloud forms
+104	Always
+105	Vikram
+106	Entitlements
+107	Slow, clear, Tamil
+108	Often
+109	Ananya
+110	Search
+111	Speed
+112	Rarely
+113	Ten rules the design follows.
+114	Lives, not departments
+115	Organise around life moments, not government silos.
+116	Vernacular-first
+117	Designed in Hindi and Tamil first, then ported to English.
+118	Trust in 5 seconds
+119	Verification, .gov.in signals and calm authority, up front.
+120	Status is sacred
+121	Always show where a thing is, who has it, and by when.
+122	Proxy is normal
+123	Helping a parent or child is a first-class action, not a hack.
+124	Voice is first-class
+125	Every field can be spoken, not typed.
+126	Receipts everywhere
+127	Every action ends with proof you can keep.
+128	Density is the enemy
+129	Few choices per screen. Space is a feature.
+130	Inclusive by default
+131	Built for the lowest-literacy, lowest-bandwidth user first.
+132	Calm authority
+133	Official, never cold. Reassuring, never childish.
+134	India runs on hundreds of disconnected government apps and portals.
+135	A citizen who wants to register a birth, claim a pension, or check a land record doesn't deal with one government. They deal with dozens — each with its own app, its own login, its own language, and its own idea of how a form should work.
+136	Services exist, but finding the real one — not a lookalike, not a middleman — takes confidence, data, and patience that the people who need help most often don't have. The maze itself is the barrier.
+137	Saathi asks a simpler question: what if there were just one door?
+138	What I'd do next.
+139	Scoped out for now: real Aadhaar and payments, live speech recognition in every language, and an offline-first data layer.
+140	Next, I'd pressure-test the voice flows with low-literacy users, put every language in front of native reviewers — the 19 machine-assisted ones first.
+141	About Krishom
+142	I'm a product designer working on civic and consumer products. Saathi is a self-initiated exploration of what dignified, inclusive government software could feel like.
+143	Get in touch
+144	Other case studies
+145	A wedding-planning companion.
+146	A studio portfolio system.
+147	I talked to citizens across India.
+148	Over several weeks I spoke with people in cities, small towns and villages about the last time they dealt with a government service. The same three frictions surfaced again and again: language, trust, and simply not knowing where to start.
+149	Rakesh
+150	Tier-2 city
+151	Has a smartphone and data, but can't tell the real portal from a lookalike.
+152	Sunita
+153	Rural
+154	Relies on a CSC operator for everything — and pays for it.
+155	Vikram
+156	Senior
+157	Wants it read aloud, in Tamil, without rushing.
+158	Ananya
+159	Urban
+160	Fast, fluent, English — wants it done on the train.
+161	India already built one app. Here's what Saathi does differently.
+162	UMANG is the government's own unified app — thousands of services in one place. It proved aggregation is possible. Saathi starts where UMANG stops: not 'how many services fit', but 'how does it feel for a real person to use one'.
+163	Saathi
+164	Organising idea
+165	A directory of departments and services — you must already know the exact name.
+166	Life moments, needs and entitlements — you start from your situation, not a department.
+167	Language
+168	13 languages, but most forms still fall back to English.
+169	Vernacular-first, voice on every field, and the whole UI swaps script in 200ms.
+170	Discovery
+171	You search — nothing tells you what you're actually owed.
+172	Profile-based scheme cards with a transparent 'why you qualify'.
+173	Trust & calm
+174	Official, but visually dense and utilitarian.
+175	Calm authority — verification and status surfaced in the first five seconds.
+176	Help & status
+177	Largely on your own once you submit.
+178	A status timeline with named officers, and family-proxy as a first-class action.
+179	Accessibility
+180	Standard forms; little for low-literacy or low-vision users.
+181	Slow mode, larger text, read-aloud and offline-first — on by default.
+182	UMANG is a real, large-scale product serving millions. This comparison is about design philosophy — not a critique of its engineering or reach.
+183	Designing one door to every government service
+184	A UI/UX case study on Saathi — a multilingual, voice-first citizen app with an assistant that asks before it acts, designed for Viksit Bharat @2047.
+185	Role
+186	Product designer — research, UX, UI, motion, prototype
+187	Type
+188	Self-initiated design concept
+189	Languages
+190	23 languages — all 22 of the Eighth Schedule, plus English
+191	Deliverables
+192	Research, design system, working prototype, website
+193	Open the prototype
+194	Contents
+195	Overview
+196	The problem
+197	Saathi and UMANG
+198	Research
+199	Personas
+200	The frame
+201	Principles
+202	Structure
+203	Designing Saathi AI
+204	Languages
+205	Accessibility
+206	Design system
+207	Key flows
+208	Measuring success
+209	Reflection
+210	One door, not hundreds.
+211	India has built the rails of a digital state — identity, payments, documents and language technology at a scale no other country has attempted. What it doesn't yet have is a front door that feels made for the person standing in front of it.
+212	Saathi reorganises government services around what happens in a citizen's life, speaks their language, and adds an assistant that can prepare an application, show its plan, ask for consent and hand back proof.
+213	What was designed
+214	government processes modelled on their real portals
+215	languages — English and every one of the 22 in the Eighth Schedule
+216	onboarding steps, including consent under the DPDP Act
+217	assistant that never submits without your yes
+218	An assistant that acts — and asks first.
+219	Most government chatbots answer questions. The people we designed for don't need more answers; they need the thing done. So Saathi AI is designed as an agent: it plans, uses official services and produces an outcome.
+220	Acting on someone's behalf with their identity and money raises the bar for trust. Every pattern below exists to keep the citizen in control.
+221	Four patterns
+222	Plan card
+223	Before doing anything, Saathi lists its steps and the official service behind each one. The plan updates live as steps complete.
+224	Tool steps
+225	Each action — fetching a record from DigiLocker, checking eligibility — appears as a short, verifiable line with its source.
+226	Consent gate
+227	Nothing is submitted, paid or shared until the citizen approves a card that names the data, the recipient and how long access lasts.
+228	Outcome
+229	Every mission ends in something real: an application in Track, a paid receipt, a switched language — with a reference number.
+230	When it can't help
+231	Didn't understand
+232	Offer three likely requests in plain words, and the option to speak to a person.
+233	Not eligible
+234	Say so plainly, explain which rule applies, and suggest what the person may qualify for instead.
+235	Service unavailable
+236	Keep the prepared application as a draft and say when to retry. Never lose what someone has entered.
+237	Needs a human
+238	Hand over to the nearest Common Service Centre or a helpline, with the context already filled in.
+239	AI principles
+240	Official sources only, always named
+241	Asks before it acts on identity, money or data
+242	Shows its reasoning for every eligibility claim
+243	A person is always one tap away
+244	Scripted and reviewable — no hidden prompts deciding outcomes
+245	In this prototype the assistant is pre-scripted, not a live language model — so every answer it gives can be reviewed before it reaches a citizen.
+246	Five tabs. The assistant in the middle.
+247	Version one had an Apply tab — but a bare Apply tab asks “apply for what?”. The centre of Saathi 2.0 is the assistant: tell it what you need, in any words, and it routes you. Every one of the 42 flows is still reachable from Explore, detail screens and Home.
+248	Home
+249	Identity, what needs attention, your applications and schemes for you.
+250	Explore
+251	Life moments, services and schemes — plus search in any language.
+252	Saathi
+253	The assistant. Ask, see the plan, approve, get proof.
+254	Track
+255	Every application with stages, named officers and dates.
+256	Me
+257	Document wallet, family help, privacy dashboard and preferences.
+258	Switch the language of this page
+259	Every text colour, tested
+260	Contrast ratios are computed from the design tokens in code and checked in automated tests against WCAG 2.1 AA.
+261	Pairing
+262	Ratio
+263	Result
+264	Bharat Precision.
+265	A design system calm enough to trust with a pension and precise enough to feel world-class — on a pure white base, with colour reserved for meaning.
+266	Colour with a job
+267	Chakra Navy
+268	Actions, links, focus
+269	India Green
+270	Verified, approved, done
+271	Saffron
+272	Attention and highlights, never body text
+273	Ink
+274	Text
+275	White
+276	Every surface
+277	Type across scripts
+278	Geist for Latin, Anek for Indic headlines (by Ek Type, an Indian foundry) and Noto Sans for Indic body text at a 1.8 line height, as UX4G recommends.
+279	Imagery made in code
+280	No stock photos and no maps. Kolam linework for texture, guilloche security print for anything official.
+281	Motion with a reason
+282	Interface motion stays under 300 milliseconds and can always be interrupted. Storytelling motion breathes. Everything becomes a gentle fade for people who prefer reduced motion.
+283	Explore the full design system
+284	Open this flow
+285	How we'd know it works.
+286	These are design targets for a pilot, not results. They are here so the design can be judged against something measurable.
+287	Design targets
+288	5 min
+289	to apply for a birth certificate, from a first-time user's first tap
+290	of test participants complete a key flow without help
+291	applications submitted or payments made without explicit consent
+292	1 in 3
+293	form fields filled by voice among low-literacy participants
+294	Validation plan
+295	Usability testing in three states
+296	Moderated sessions with each persona group, in their language, on their own phones.
+297	Native-language review
+298	Every language reviewed by native speakers before any pilot — the 19 machine-assisted ones first.
+299	Independent accessibility audit
+300	Screen reader, keyboard, low vision and cognitive load, against WCAG 2.1 AA and GIGW 3.0.
+301	Assistant red-teaming
+302	Try to make Saathi AI submit, pay or share without consent — and fix every path found.

@@ -1,0 +1,727 @@
+1	1 bill due
+2	12 Mar 2026
+3	14 Civil Lines, Kanpur
+4	2 in progress
+5	2025–26 · final list
+6	3 strong matches
+7	3–5 days
+8	7–10 days
+9	8 AM – 10 PM · 12 languages (sample number)
+10	9 of 9 fields
+11	A document is missing
+12	A document is unclear
+13	A field visit is needed
+14	A new baby
+15	A similar application from the same Aadhaar exists this year.
+16	APY contribution
+17	Aadhaar
+18	Aadhaar Regional Office
+19	Aadhaar Seva Kendra
+20	Aadhaar address was updated in the last 30 days.
+21	Aadhaar card
+22	Aadhaar number
+23	Aadhaar updates
+24	Aadhaar, PAN, Driving licence
+25	Aadhaar-linked
+26	Aadhaar-linked bank account
+27	Aanya
+28	Aanya Verma
+29	Aanya's hospital birth record
+30	Academic details
+31	Accepted
+32	Accident cover for ₹20 a year
+33	Accident insurance
+34	Account details
+35	Accounts & sanctions
+36	Act for Ramesh Verma and share his details?
+37	Add your land record to receive ₹6,000 a year
+38	Address
+39	Address proof
+40	Address recently changed
+41	Admissions & verifications
+42	Admit cards & marksheets
+43	Adults in household
+44	Age 18–40
+45	Age 18–70
+46	Age 60+
+47	Age proof
+48	Agriculture Department
+49	Amount due
+50	An officer will visit your address. Please share a convenient time in the next 5 days.
+51	Anil Kumar, field officer, will visit within 5 days.
+52	Annual family income (₹)
+53	Applicant details
+54	Application Form 9
+55	Application number
+56	Application pending beyond the time limit
+57	Apply Ayushman card
+58	Apply for JSY
+59	Apply for and download official certificates
+60	Apply for job card
+61	Apply for learner's licence
+62	Apply for mutation
+63	Apply for re-evaluation
+64	Apply for scholarship
+65	Apply for work
+66	Apply now
+67	Apply old-age pension
+68	Apply online in a few guided steps — we'll save your progress.
+69	Appointment
+70	Appointment date
+71	Appointment slot
+72	Approve and register
+73	Approve and save
+74	Approve and submit
+75	Approve in UPI app
+76	Approved by S. Reddy · 19 May
+77	Approved income certificate
+78	As per the exam calendar
+79	Asked to visit the office in person
+80	Assessed value
+81	Assessee
+82	Assessment year
+83	Assistant Labour Commissioner
+84	At least one document was uploaded, not fetched from DigiLocker — check it by eye.
+85	Atal Pension Yojana
+86	Atal Pension Yojana: Guaranteed pension after 60. You may qualify because: Age 18–40; Savings account. I'll verify these with official records when you apply.
+87	Audit or legal request
+88	Ayushman Bharat
+89	Ayushman Bharat: Free hospital cover. You may qualify because: Low-income family; SECC listed. I'll verify these with official records when you apply.
+90	Ayushman Health Card
+91	Ayushman card AB-2026-9921-3382
+92	Ayushman card download
+93	Ayushman card ready
+94	Ayushman card saved
+95	BPL card
+96	BPL household
+97	Bank account
+98	Bank account number
+99	Bank details
+100	Bank name
+101	Bank passbook
+102	Banking & Financial Inclusion
+103	Based on what you've told me and your records, these are worth claiming. I've shown why for each.
+104	Basis of transfer
+105	Belongs to another office
+106	Benefit not received
+107	Benefit sanctions
+108	Bill amount
+109	Bill type
+110	Biller / Board
+111	Birth Certificate
+112	Birth certificate
+113	Birth certificate BC-2026-UP-07734
+114	Birth certificate application submitted
+115	Birth certificate copy fee
+116	Birth certificate in review
+117	Birth certificate moved to verification
+118	Birth certificate no.
+119	Birth certificate verification
+120	Block / Tehsil
+121	Block Development Officer
+122	Block Office, Kalyanpur
+123	Blood group
+124	Board / University
+125	Board exam form (private / supplementary)
+126	Board exam form fee
+127	Bonafide certificate
+128	Book a health check-up
+129	Book high-security number plate
+130	Business
+131	Business activity
+132	Business name
+133	Business proof / quotation
+134	Buyer details
+135	Buying a home
+136	Buying a vehicle
+137	Cap or headwear in photo
+138	Card number and family members
+139	Cash help for safe delivery
+140	Caste
+141	Caste certificate
+142	Caste details
+143	Category
+144	Certificate delivered
+145	Certificate details
+146	Certificate expected in 7–10 days
+147	Certificates
+148	Certificates & land records
+149	Certificates & receipts
+150	Chassis number
+151	Check maternity benefits
+152	Check-up package
+153	Checked bank account is Aadhaar-linked
+154	Checking Ramesh Verma's pension
+155	Checking your profile against 12 schemes
+156	Child's details
+157	Child's name
+158	Choose biller
+159	Class X certificate (date of birth)
+160	Class of vehicle
+161	Closed grievances
+162	Collateral-free business loan
+163	Complaint details
+164	Complete
+165	Congratulations on Aanya! I can register her birth with Nagar Nigam, Kanpur. Here's my plan — nothing is sent until you approve.
+166	Constituency
+167	Consumer number
+168	Contact (optional)
+169	Continue
+170	Controller of Examinations
+171	Course
+172	Course / Class
+173	Current house
+174	Current status
+175	Date & shift
+176	Date of birth
+177	Date of birth differs
+178	Daughter
+179	Dealer invoice
+180	Declared income is within 5% of the eligibility ceiling.
+181	Deductions (80C etc.)
+182	Deed / Reg. number
+183	Delivery facility
+184	Department
+185	Department / Ministry
+186	Department of Education
+187	Department of Health
+188	Department of Labour
+189	Dept. of Administrative Reforms
+190	Dept. of Agriculture & Farmers Welfare
+191	Deputy Director
+192	Description
+193	Details don't match Aadhaar
+194	DigiLocker → Saathi
+195	Disability certificate (if applicable)
+196	District
+197	District Agriculture Office, Kanpur
+198	District Agriculture Officer
+199	District Education Office, Kanpur
+200	District Education Officer
+201	District Grievance Cell, Kanpur
+202	District Health Society, Kanpur
+203	District Programme Manager
+204	District Programme Office, Kanpur
+205	District Programme Officer
+206	District Social Welfare Office, Kanpur
+207	District Social Welfare Officer
+208	Document could not be verified
+209	Document verification
+210	Document verification · about 5 days
+211	Download PUC certificate
+212	Download admit card
+213	Download e-Aadhaar
+214	Download it or collect it from your nearest CSC.
+215	Driving Licence
+216	Driving without a seat belt
+217	Driving without insurance
+218	Due 29 May
+219	Due date
+220	Duplicate RC
+221	Duplicate of an approved application
+222	Education
+223	Education Department
+224	Education proof
+225	Election Commission of India
+226	Eligibility
+227	Eligibility check
+228	Eligibility rules
+229	Email
+230	Ends when the application closes
+231	Engine number
+232	Enrolled student
+233	Entrance exam form (JEE · NEET · CUET)
+234	Exam & centre
+235	Exam centre
+236	Exam city · 1st choice
+237	Exam city · 2nd choice
+238	Exam forms, admit cards and results
+239	Exam type
+240	Examination
+241	Examination Cell · NTA, Board & SSC
+242	Examinations
+243	Exams & recruitment
+244	Existing driving licence
+245	Expected within 3 days
+246	Expected within 5 days
+247	Face authentication with Jeevan Pramaan
+248	Face covered by glare
+249	Face matched with Aadhaar
+250	Face-match confidence is below the threshold.
+251	Family details
+252	Farmer registrations
+253	Farming
+254	Father
+255	Father's caste certificate
+256	Father's name
+257	Female
+258	Fetch the hospital birth record
+259	Fetched PAN from DigiLocker
+260	File a complaint
+261	File income tax return
+262	Fill Form 1 for e-District
+263	Find a hospital
+264	Find your record
+265	First child · May 2026
+266	First job
+267	First living child
+268	Fitment
+269	For this certificate only
+270	Form 1 pre-filled
+271	Form 16
+272	Form 2 (learner's licence)
+273	Form 20 (registration)
+274	Form 26 (duplicate RC)
+275	Forms 29 & 30 (transfer)
+276	Found · 12 Mar 2026
+277	Free hospital cover
+278	From rakesh.verma@sbi
+279	Full name
+280	GT Road, Rawatpur crossing
+281	Gender
+282	Get land record copy
+283	Get my daughter's birth certificate
+284	Get result & marksheet
+285	Girl under 10
+286	Good news — your property tax for this year is already paid. The receipt is saved in Track.
+287	Government job exam form (SSC)
+288	Gram Panchayat
+289	Grievances
+290	Gross total income (₹)
+291	Guaranteed pension after 60
+292	Guardian
+293	Guardian account
+294	Guardian's name
+295	HSRP number plate
+296	Hallet Hospital birth record
+297	Hallet Hospital, Kanpur
+298	Health
+299	Health & illness
+300	Health Department
+301	Health cards
+302	Health cards, hospitals and check-ups
+303	Help Ramesh Verma (proxy mode)
+304	Help to build or buy a home
+305	Here's where things stand. Tap any card for the full timeline.
+306	High-interest savings for a girl child
+307	Highest education
+308	Hospital
+309	Hospital birth record
+310	Household head
+311	Husband's name
+312	I wasn't driving the vehicle
+313	I'm Rakesh Verma, mobile 98765 43210, from 14 Civil Lines, Kanpur.
+314	I'm not sure I understood that yet. Here are things I can do right now — or I can connect you to a person.
+315	IFSC code
+316	ITMS camera
+317	ITR form
+318	Identity & Aadhaar
+319	Income & category
+320	Income & tax
+321	Income Certificate
+322	Income Tax Department
+323	Income Tax Officer
+324	Income certificate
+325	Income certificate application
+326	Income details
+327	Income near the limit
+328	Income support for farmers
+329	Instalment 20 · Kanpur Nagar
+330	Instalment 21 · Kanpur Nagar
+331	Instalment eligibility
+332	Instalment payments to your account
+333	Instant
+334	Institution
+335	Institutional birth
+336	Insurance certificate
+337	It was a medical emergency
+338	It's at the stage shown below, with a named officer and an expected date. It's within the normal time, so no action is needed yet. If it passes the date, I can raise a grievance on CPGRAMS for you.
+339	JEE Main application fee
+340	Janani Suraksha Yojana
+341	Janani Suraksha Yojana: Cash help for safe delivery. You may qualify because: Pregnant woman; Institutional birth. I'll verify these with official records when you apply.
+342	Job cards & sanctions
+343	Jobs & labour
+344	Jobs, skilling and labour welfare
+345	Jobseeker profile
+346	Jumping a red light
+347	June 2026
+348	Kalyanpur flyover
+349	Kanpur Traffic Police · eChallan
+350	Khasra / Khata no.
+351	Labour & Skills
+352	Labour Office, Kanpur
+353	Land & address
+354	Land & property
+355	Land record (Bhulekh)
+356	Land record (Khasra/Khatauni)
+357	Land record check within 14 days
+358	Land record, bank account
+359	Land records, tax and mutation
+360	Land-holding farmer
+361	Last 5 digits of chassis no.
+362	Last menstrual period (LMP)
+363	Latest marksheet
+364	Lead District Manager
+365	Lead District Office, Kanpur
+366	Learner's test
+367	Licence class
+368	Licence number
+369	Licence renewal fee
+370	Licences & registrations
+371	Licences, challans and vehicles
+372	Life certificate due 30 Nov
+373	Life certificate submitted for Ramesh Verma
+374	Life certificate · Ramesh Verma
+375	Likely eligible · ₹1,400
+376	Link bank account
+377	Link mobile number
+378	Loan amount (₹)
+379	Loan category
+380	Loan details
+381	Looking up your property
+382	Loss of a loved one
+383	Low-income family
+384	MCP card
+385	MCP card number
+386	MGNREGA wages
+387	Maker & model
+388	Mall Road, Kanpur Nagar · open till 7 PM
+389	Mall Road, Phool Bagh signal
+390	Manage your Aadhaar and identity records
+391	Marks awarded
+392	Marriage
+393	Maternity benefit for first child
+394	Matru Vandana
+395	Matru Vandana: Maternity benefit for first child. You may qualify because: Pregnant / nursing; First living child. I'll verify these with official records when you apply.
+396	May 2026 deliveries
+397	Medical certificate (Form 1A)
+398	Ministry of Agriculture
+399	Ministry of Education
+400	Ministry of Finance
+401	Ministry of Health
+402	Ministry of Housing
+403	Ministry of MSME
+404	Ministry of Rural Development
+405	Ministry of Women & Child
+406	Mobile number
+407	Mobile update
+408	Money & pensions
+409	Monthly pension for seniors
+410	Mother
+411	Mother Sunita Verma, father Rakesh Verma. We live at 14 Civil Lines, Kanpur.
+412	Mother's details
+413	Mother's name
+414	Municipal Corporation
+415	Muster rolls · week 20
+416	Nagar Nigam (Municipal)
+417	Nagar Nigam, Kanpur
+418	Nagar Nigam, Kanpur · ₹2,450
+419	Name
+420	Name and Aadhaar
+421	Name differs from Aadhaar
+422	Name on record
+423	Name, address, hospital birth record
+424	National Health Authority → DigiLocker
+425	National Scholarship
+426	National Scholarship: Scholarships for students. You may qualify because: Enrolled student; Within income limit. I'll verify these with official records when you apply.
+427	National Testing Agency
+428	New address
+429	New mobile number
+430	New owner's name
+431	New vehicle registration
+432	New: PM Vishwakarma for artisans
+433	Next disbursement cycle
+434	No dues left this year
+435	No pucca house
+436	No seat belt
+437	No-parking zone
+438	Nominee
+439	Nominee name
+440	Non-corporate
+441	Not eligible under the scheme rules
+442	Occupation
+443	Of course. A trained person can help you in person or on the phone, free of charge. I'll share what you've done so far so you don't have to repeat yourself.
+444	Okay — I'll speak Hindi from now on. Everything in Saathi has switched.
+445	Old Age Pension
+446	Old Age Pension: Monthly pension for seniors. You may qualify because: Age 60+; BPL household. I'll verify these with official records when you apply.
+447	Old-age pension
+448	Old-age pension · Ramesh Verma
+449	One more thing: you may be eligible for ₹1,400 under Janani Suraksha Yojana, and you can open a Sukanya Samriddhi account for Aanya.
+450	One-time payment
+451	Online test slot
+452	Open Sukanya account
+453	Open Track
+454	Open full timeline
+455	Open pension account
+456	Open wallet
+457	Opening deposit (₹)
+458	Outside jurisdiction
+459	Over-speeding
+460	Owner
+461	Owner & documents
+462	PAN Card
+463	PAN card
+464	PIN code
+465	PM Awas Yojana
+466	PM Awas Yojana: Help to build or buy a home. You may qualify because: No pucca house; Within income limit. I'll verify these with official records when you apply.
+467	PM Mudra Loan
+468	PM Mudra Loan: Collateral-free business loan. You may qualify because: Small business; Non-corporate. I'll verify these with official records when you apply.
+469	PM Vishwakarma
+470	PM Vishwakarma toolkit
+471	PM Vishwakarma: Support for artisans & craftspeople. You may qualify because: Traditional artisan; Aadhaar-linked. I'll verify these with official records when you apply.
+472	PM-KISAN Registration
+473	PM-KISAN registration submitted
+474	PM-KISAN system
+475	PM-KISAN · Dept. of Agriculture
+476	PM-KISAN: Income support for farmers. You may qualify because: Land-holding farmer; Aadhaar-linked. I'll verify these with official records when you apply.
+477	PM-KISAN: one step left
+478	PMSBY premium
+479	PUC certificate
+480	PUC valid up to
+481	Paper details
+482	Parent & income
+483	Parents & address
+484	Parking in a no-parking zone
+485	Passport-size photo
+486	Patient details
+487	Pay a utility bill
+488	Pay my property tax
+489	Pay now
+490	Pay property tax
+491	Pay securely and get an instant receipt.
+492	Pay taxes and utility bills
+493	Pay traffic challan
+494	Pay ₹2,450 to Nagar Nigam, Kanpur?
+495	Paying before the due date avoids a 2% monthly penalty. I'll pay from your SBI account using UPI.
+496	Payment approved in your bank app
+497	Payment deducted but not reflected
+498	Pending challans
+499	Pension ID and bank account
+500	Pension amount
+501	Pension continues without a break
+502	Pension disbursing office, Kanpur
+503	Pension orders
+504	Pensions, savings and bank linking
+505	Personal details
+506	Photo older than 3 months
+507	Photo unclear
+508	Place of birth
+509	Plan
+510	Plate & fitment
+511	Police report (if lost or stolen)
+512	Possible duplicate
+513	Pre-fill your applications
+514	Preferences
+515	Preferred role
+516	Pregnancy details
+517	Pregnant / nursing
+518	Pregnant woman
+519	Priya Nair is verifying · about 3 days
+520	Priya Nair · Nagar Nigam
+521	Priya Nair, verifying officer, will review it
+522	Processed returns
+523	Property ID
+524	Property KNP-4471
+525	Property KNP-4471, Civil Lines
+526	Property details
+527	Property tax 2026–27
+528	Property tax due in 5 days
+529	Property tax dues
+530	Property tax paid
+531	Property tax reminder
+532	Public Grievance Nodal Officer
+533	Public Grievances
+534	Purpose
+535	Qualifying education
+536	Qualifying exam status
+537	RTO Kanpur Nagar · UP-78
+538	Raise a grievance
+539	Raise and track public complaints
+540	Raise your complaint — you'll get a tracking ID.
+541	Rakesh Verma
+542	Ramesh Verma
+543	Ramesh approves
+544	Ramesh's Aadhaar face authentication
+545	Ration card
+546	Ration card number
+547	Re-evaluation fee
+548	Ready
+549	Ready to collect
+550	Reason
+551	Receipt saved · no dues left this year
+552	Record found
+553	Refund re-issue
+554	Regional Office, Lucknow
+555	Regional Transport Officer
+556	Register at a hospital
+557	Register for skill training
+558	Register in a few quick steps.
+559	Register you for PM-KISAN?
+560	Register your newborn and get the certificate.
+561	Registrar (Births & Deaths)
+562	Registrar of Births, Nagar Nigam
+563	Registration
+564	Registration certificate
+565	Registration certificate (RC)
+566	Registration number
+567	Registrations & certificates
+568	Relationship
+569	Renew driving licence
+570	Renew in a few steps — we'll fetch your existing record.
+571	Resolve a data mismatch
+572	Retirement
+573	Revenue Department
+574	Revenue Dept., UP
+575	Riding without a helmet
+576	Roll number
+577	Rules checked
+578	Rural Development
+579	S. Reddy · Revenue Dept.
+580	SECC listed
+581	Saathi (on your request)
+582	Salary slip / self-declaration
+583	Sale deed
+584	Same day
+585	Save your Ayushman card to DigiLocker?
+586	Savings account
+587	Scanned signature
+588	Scheme details
+589	Scholarships for students
+590	Scholarships, admissions and verification
+591	School admission
+592	School preference
+593	Second instalment
+594	Sector
+595	See all schemes for me
+596	Self-assessment tax
+597	Send certificate to the pension office
+598	Share with Nagar Nigam, Kanpur?
+599	She's my daughter Aanya, born on 12 March 2026 at Hallet Hospital, Kanpur.
+600	Show it at any empanelled hospital
+601	Signature in capital letters
+602	Signature is blank
+603	Small business
+604	Social Welfare
+605	Social Welfare Department
+606	Staff Selection Commission
+607	Starting a business
+608	State
+609	State Board of Secondary Education
+610	Stop helping Ramesh
+611	Student registration
+612	Subject
+613	Subject for re-evaluation
+614	Subjects
+615	Submit my father's pension life certificate
+616	Submit public feedback
+617	Submit with your approval
+618	Submitting to e-District
+619	Success
+620	Sukanya Samriddhi
+621	Sukanya Samriddhi: High-interest savings for a girl child. You may qualify because: Girl under 10; Guardian account. I'll verify these with official records when you apply.
+622	Sunita Devi
+623	Sunita Verma
+624	Support for artisans & craftspeople
+625	Suraksha Bima
+626	Suraksha Bima: Accident insurance. You may qualify because: Age 18–70; Bank account. I'll verify these with official records when you apply.
+627	Swaroop Nagar market
+628	Switching language
+629	Talk to a person
+630	Talk to me in Hindi
+631	Tax payable
+632	Taxes & bills
+633	Tehsil Sadar, Kanpur Nagar
+634	Tehsildar
+635	The address falls under a neighbouring office.
+636	The address proof you uploaded is blurred. Please add a clear copy or fetch it from DigiLocker.
+637	The date of birth on the form and in Aadhaar are different.
+638	The name typed on the form doesn't exactly match the e-KYC record.
+639	The number plate was read wrongly
+640	The test is taken online, from home, with face authentication.
+641	The vehicle had been sold
+642	This application is complete — nothing is waiting on you.
+643	Toolkit support of ₹15,000 and low-interest credit.
+644	Total payable
+645	Track
+646	Track a complaint
+647	Trade
+648	Trade & address
+649	Traditional artisan
+650	Traffic challan
+651	Traffic officer · handheld device
+652	Transfer details
+653	Transfer vehicle ownership
+654	Transport & licence
+655	Transport Department
+656	Transport Department (RTO)
+657	Transport Dept. · Sarathi
+658	UIDAI · via DigiLocker
+659	Under review
+660	Under review · about 3 days
+661	Understanding your request
+662	Until May 2027
+663	Until the application closes
+664	Until you opt out
+665	Until you remove it
+666	Update Aadhaar address
+667	Uploaded document
+668	Utility / Service Provider
+669	Valid for life
+670	Valid till 22 Jul 2039
+671	Valid till Nov 2027
+672	Valid up to
+673	Vehicle
+674	Vehicle class
+675	Vehicle details
+676	Vehicle number
+677	Verification pending
+678	Verified
+679	Verified government payee
+680	Verify a certificate
+681	Verify identity
+682	Verify identity for this application
+683	Verify your identity and download instantly.
+684	View in Track
+685	View receipt
+686	View status
+687	Viewed address proof
+688	Village / Town
+689	Voter ID
+690	Ward 2(1), Kanpur
+691	Water & sewer charges
+692	We need the hospital discharge summary to register the birth. You can add it from DigiLocker.
+693	Where is my Ayushman card?
+694	Which schemes am I owed?
+695	Within income limit
+696	Women & Child Development
+697	Work experience
+698	Wrong details on the issued certificate
+699	Year of admission
+700	Year of passing
+701	You own farmland in Kanpur Nagar
+702	You're 34 with a savings account
+703	You're now helping Ramesh — see the banner at the top
+704	Your Ayushman card is ready
+705	Your Ayushman card was approved on 19 May and is ready. It gives your family ₹5 lakh of hospital cover a year. You can collect it from CSC Civil Lines, or I can save it to your DigiLocker right now.
+706	Your applications
+707	Your details
+708	Your father's pension continues only if his life certificate is renewed every year. He can do it from home with a face scan on this phone — no bank visit. I'll switch to helping him so every step is clearly marked as his.
+709	Your feedback
+710	Your name on the form differs from your Aadhaar. Please confirm the correct spelling.
+711	Your name, Aadhaar and address
+712	Your rating
+713	cover
+714	e-voucher batch 7
+715	one-time
+716	per month
+717	per year
+718	subsidy
+719	toolkit
+720	up to · loan
+721	~15 days
+722	~30 days
+723	₹0 due
+724	₹2,450 due by 29 May. Pay in under a minute.
+725	₹2,450 to Nagar Nigam, Kanpur
+726	₹5 L health cover for your family
+727	₹6,000 a year in three instalments

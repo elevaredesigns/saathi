@@ -1,0 +1,889 @@
+{
+  "govStrip": {
+    "concept": "A design concept for Viksit Bharat @2047",
+    "identify": "How to identify official websites",
+    "identifyTitle": "Real government websites",
+    "points": [
+      {
+        "title": "Official addresses",
+        "body": "Government sites end in .gov.in or .nic.in."
+      },
+      {
+        "title": "Secure connection",
+        "body": "Look for the padlock and https:// before you share anything."
+      },
+      {
+        "title": "Never pay an agent",
+        "body": "Officials never ask for your OTP, PIN or a fee over a call or message."
+      }
+    ],
+    "notOfficial": "Saathi is a design concept by Krishom. It is not a Government of India website.",
+    "close": "Close"
+  },
+  "nav": {
+    "vision": "Vision",
+    "ai": "Saathi AI",
+    "pillars": "Pillars",
+    "languages": "Languages",
+    "trust": "Trust",
+    "caseStudy": "Case study",
+    "prototype": "Open prototype",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to content",
+    "departments": "Departments",
+    "scale": "Scale"
+  },
+  "a11y": {
+    "button": "Accessibility options",
+    "title": "Make this page easier to use",
+    "textSize": "Text size",
+    "sizes": [
+      "Default",
+      "Large",
+      "Larger"
+    ],
+    "contrast": "High contrast",
+    "motion": "Reduce motion",
+    "readAloud": "Read this page aloud",
+    "stopReading": "Stop reading",
+    "reset": "Reset"
+  },
+  "hero": {
+    "badge": "Designed for Viksit Bharat @2047",
+    "title": "One door to every government service.",
+    "secondary": "हर सरकारी सेवा का एक द्वार।",
+    "lede": "Saathi is a citizen app that starts from your life, not from a department. Ask in your own language — it finds what you're entitled to, fills in the forms and keeps the receipts.",
+    "primary": "Try the prototype",
+    "secondaryCta": "Read the case study",
+    "languagesLabel": "Switch the whole site",
+    "liveLabel": "This phone is the live prototype. Tap around.",
+    "moreLanguages": "+ 19 more in the app"
+  },
+  "door": {
+    "before": "Today, a citizen has to find the right app among hundreds.",
+    "beforeSub": "Different logins, different languages, different forms — and a fake portal one search result away.",
+    "after": "Saathi is one door.",
+    "afterSub": "Every service, organised around what's happening in your life: a birth, a harvest, a first job, a pension.",
+    "scroll": "Keep scrolling"
+  },
+  "rails": {
+    "title": "The rails are built. The door is missing.",
+    "intro": "India already runs the largest digital public infrastructure in the world.",
+    "figures": [
+      {
+        "value": 142,
+        "unit": "crore+",
+        "label": "Aadhaar numbers issued",
+        "source": 1
+      },
+      {
+        "value": 23.2,
+        "unit": "billion",
+        "label": "UPI payments in May 2026 alone",
+        "source": 2
+      },
+      {
+        "value": 70,
+        "unit": "crore+",
+        "label": "DigiLocker accounts",
+        "source": 3
+      }
+    ],
+    "gap": "Yet a citizen still has to know which app, which portal and which form. Saathi is the front door those rails were waiting for — built on them, not beside them.",
+    "stackTitle": "How Saathi would connect",
+    "stackNote": "Conceptual integrations. Saathi is not affiliated with these platforms.",
+    "stack": [
+      {
+        "name": "Aadhaar",
+        "role": "Proves it's you"
+      },
+      {
+        "name": "DigiLocker",
+        "role": "Brings verified documents"
+      },
+      {
+        "name": "UPI",
+        "role": "Pays fees and dues"
+      },
+      {
+        "name": "Bhashini",
+        "role": "Speaks your language"
+      },
+      {
+        "name": "API Setu",
+        "role": "Talks to departments"
+      },
+      {
+        "name": "CPGRAMS",
+        "role": "Escalates complaints"
+      }
+    ]
+  },
+  "why": {
+    "eyebrow": "Why Saathi",
+    "title": "These apps already exist. So why Saathi?",
+    "intro": "India has built excellent pieces — an app full of services, a wallet of documents, a scheme finder, state portals and lakhs of help centres. Each solves one part well. But a citizen still has to know which piece to open, in which order, in which language. Saathi doesn't replace them. It is the one door that uses them for you.",
+    "tools": [
+      {
+        "name": "UMANG",
+        "good": "Thousands of central and state services in one app.",
+        "missing": "Organised by department — you need to know the service's name. You still fill each department's form yourself."
+      },
+      {
+        "name": "DigiLocker",
+        "good": "Verified documents on your phone, straight from the issuer.",
+        "missing": "Stores documents — it doesn't apply for anything or tell you what you're owed."
+      },
+      {
+        "name": "myScheme",
+        "good": "Finds government schemes you may be eligible for.",
+        "missing": "Once found, you go to each scheme's own website to apply, with a new login and form."
+      },
+      {
+        "name": "State portals & e-District",
+        "good": "Where most services are actually delivered.",
+        "missing": "A different login, layout and language in every state and department."
+      },
+      {
+        "name": "CSC centres",
+        "good": "A real person to help, in lakhs of villages and towns.",
+        "missing": "Means travel, a queue and a fee — for something a phone could do."
+      }
+    ],
+    "answer": {
+      "title": "Saathi is the front door that sits on top of all of them.",
+      "body": "Tell it what's happening in your life, in your language or by voice. It finds what you're owed, fills the form from DigiLocker, files it with the right department, pays by UPI — and asks before every step. The existing systems keep doing what they do best; the citizen just stops having to stitch them together."
+    },
+    "onlyTitle": "What Saathi brings together, that no single app does today",
+    "only": [
+      {
+        "title": "Starts from your life, not a department",
+        "body": "“We had a baby” opens the birth certificate, vaccination and benefits together — you never need to know which office does what."
+      },
+      {
+        "title": "An assistant that does the work — and asks first",
+        "body": "It plans, fills and files, but nothing is submitted, paid or shared until you approve a card that says exactly what goes where."
+      },
+      {
+        "title": "All 22 languages and voice, on every field",
+        "body": "Every screen, form and answer in English and all 22 scheduled languages — speak instead of typing, hear it read aloud."
+      },
+      {
+        "title": "Act for your parent or child",
+        "body": "Family proxy mode lets a son submit his father's life certificate, clearly marked, with the father's approval by OTP."
+      },
+      {
+        "title": "Both sides of the counter",
+        "body": "A department console where officers see the same case, decide, and the citizen's app updates instantly — with a named officer and a date."
+      },
+      {
+        "title": "Trust you can check",
+        "body": "No ads, no data selling. Every access to your data is logged where you can see it and switch it off, as the DPDP Act requires."
+      }
+    ],
+    "fair": "UMANG, DigiLocker, myScheme, UPI and e-District are real, valuable government platforms; Saathi is a design concept built to work on top of them, not against them. Comparisons describe the citizen's experience today, not the engineering of these platforms."
+  },
+  "ai": {
+    "title": "Tell it what you need. It does the paperwork.",
+    "intro": "Saathi AI is an assistant that acts — but only after it shows you the plan and you say yes.",
+    "steps": [
+      {
+        "title": "Ask the way you'd ask a person",
+        "body": "In your own language, by voice or by typing. No department names, no form numbers."
+      },
+      {
+        "title": "See the plan before anything happens",
+        "body": "Saathi lays out every step, which official service it will use, and why."
+      },
+      {
+        "title": "Nothing leaves your phone without your yes",
+        "body": "You see exactly what is shared, with whom, and for how long. Change it or cancel it."
+      },
+      {
+        "title": "Proof, every time",
+        "body": "Every action ends with a reference number, a named officer and a date — and anything else you're owed."
+      }
+    ],
+    "demo": {
+      "ask": "मेरी बेटी का जन्म प्रमाणपत्र बनवाना है",
+      "askTranslation": "I need to get my daughter's birth certificate",
+      "thinking": "Understanding your request",
+      "planTitle": "Here's my plan",
+      "plan": [
+        "Fetch the hospital birth record from DigiLocker",
+        "Fill Form 1 for e-District",
+        "Check Janani Suraksha Yojana eligibility",
+        "Submit to Nagar Nigam, Kanpur"
+      ],
+      "consentTitle": "Share with Nagar Nigam, Kanpur?",
+      "consentItems": [
+        "Your name and address",
+        "Aanya's hospital birth record"
+      ],
+      "consentValidity": "Until the application closes",
+      "approve": "Approve",
+      "edit": "Edit",
+      "doneTitle": "Application submitted",
+      "doneRef": "SAA-2026-457029",
+      "doneOfficer": "Priya Nair is reviewing it",
+      "doneEta": "Certificate expected in 7 days",
+      "bonus": "You may also get ₹1,400 under Janani Suraksha Yojana.",
+      "approved": "Approved"
+    },
+    "guardrailsTitle": "Guardrails, built in",
+    "guardrails": [
+      {
+        "title": "Official sources only",
+        "body": "Every answer names the department or portal it came from."
+      },
+      {
+        "title": "Asks before it acts",
+        "body": "It never submits, pays or shares without your approval."
+      },
+      {
+        "title": "Explains itself",
+        "body": "“Why you qualify” is shown for every scheme it suggests."
+      },
+      {
+        "title": "A person is always close",
+        "body": "One tap reaches a Common Service Centre or a helpline."
+      }
+    ],
+    "cta": "Try Saathi AI in the prototype"
+  },
+  "pillars": {
+    "title": "Built around the four pillars of Viksit Bharat.",
+    "intro": "Development measured by the lives it changes — Garib, Yuva, Annadata and Nari.",
+    "items": [
+      {
+        "word": "गरीब",
+        "name": "Garib",
+        "promise": "Entitlements find people, not the other way round.",
+        "story": "Ramesh, 67, has his pension life certificate submitted by his son from Saathi — no queue, no agent.",
+        "link": "See the pension flow",
+        "href": "/prototype/apply/?id=money_oldage",
+        "meaning": "The poor"
+      },
+      {
+        "word": "युवा",
+        "name": "Yuva",
+        "promise": "Scholarships, skills and a first job in one place.",
+        "story": "Ananya renews her driving licence on a twenty-minute train ride.",
+        "link": "See the licence renewal",
+        "href": "/prototype/apply/?id=transport_dl",
+        "meaning": "The young"
+      },
+      {
+        "word": "अन्नदाता",
+        "name": "Annadata",
+        "promise": "Land records and PM-KISAN, by voice.",
+        "story": "Sunita, who reads slowly, asks out loud and hears her instalment status read back.",
+        "link": "See PM-KISAN",
+        "href": "/prototype/scheme/?id=pmkisan",
+        "meaning": "Farmers"
+      },
+      {
+        "word": "नारी",
+        "name": "Nari",
+        "promise": "Maternity benefits, a daughter's savings and her certificate — as one checklist.",
+        "story": "After Aanya is born, the birth certificate, JSY and Sukanya Samriddhi arrive together.",
+        "link": "See the new-baby checklist",
+        "href": "/prototype/moment/?id=newBaby",
+        "meaning": "Women"
+      }
+    ]
+  },
+  "languages": {
+    "title": "It speaks the way India speaks.",
+    "intro": "Every screen and form in 23 languages — English and all 22 of the Eighth Schedule, in twelve scripts, left to right and right to left. Hindi, Bengali and Tamil are fully authored alongside English; the other 19 are machine-assisted and awaiting native-speaker review.",
+    "phrase": "How can I help?",
+    "phrases": {
+      "en": "How can I help?",
+      "hi": "मैं कैसे मदद करूँ?",
+      "bn": "আমি কীভাবে সাহায্য করতে পারি?",
+      "ta": "நான் எப்படி உதவலாம்?",
+      "as": "মই কেনেকৈ সহায় কৰিব পাৰোঁ?",
+      "brx": "आं माबोरै मदद खालामनो हागोन?",
+      "dgo": "मैं किस चाल्ली मदद करां?",
+      "gu": "હું કેવી રીતે મદદ કરી શકું?",
+      "kn": "ನಾನು ಹೇಗೆ ಸಹಾಯ ಮಾಡಲಿ?",
+      "ks": "بہٕ کِتھ پٲٹھۍ کٔرٕ مدد؟",
+      "kok": "हांव कशी मजत करूं?",
+      "mai": "हम कोना मदति करी?",
+      "ml": "ഞാൻ എങ്ങനെ സഹായിക്കാം?",
+      "mni": "ꯑꯩꯅ ꯀꯔꯝꯅ ꯃꯇꯦꯡ ꯄꯥꯡꯒꯅꯤ?",
+      "mr": "मी कशी मदत करू?",
+      "ne": "म कसरी मद्दत गर्न सक्छु?",
+      "or": "ମୁଁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି?",
+      "pa": "ਮੈਂ ਕਿਵੇਂ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ?",
+      "sa": "अहं कथं साहाय्यं करोमि?",
+      "sat": "आञ चेद लेकाते गोड़ो दाड़ेयाञ?",
+      "sd": "مان ڪيئن مدد ڪري سگهان ٿو؟",
+      "te": "నేను ఎలా సహాయం చేయగలను?",
+      "ur": "میں کیسے مدد کر سکتا ہوں؟"
+    },
+    "tryTitle": "Try the settings",
+    "tryBody": "These are the same controls every Saathi user gets.",
+    "sample": {
+      "title": "Birth certificate",
+      "status": "Ready to collect",
+      "body": "Collect it from Nagar Nigam, Kanpur, or download it to your DigiLocker."
+    },
+    "toggles": {
+      "large": "Larger text",
+      "contrast": "High contrast",
+      "read": "Read aloud"
+    },
+    "features": [
+      {
+        "title": "Voice on every field",
+        "body": "Speak an answer instead of typing it."
+      },
+      {
+        "title": "Read aloud",
+        "body": "Hear any screen in your language."
+      },
+      {
+        "title": "Slow mode",
+        "body": "More time and fewer steps."
+      },
+      {
+        "title": "Help someone you love",
+        "body": "Act for a parent or child, clearly marked."
+      },
+      {
+        "title": "Made for weak signal",
+        "body": "Designed to work offline and on 2G."
+      },
+      {
+        "title": "Never colour alone",
+        "body": "Status is always said in words too."
+      }
+    ]
+  },
+  "trust": {
+    "title": "Trust you can check.",
+    "intro": "People told us they double-check every government website. Saathi is designed so they can.",
+    "items": [
+      {
+        "title": "Consent before data moves",
+        "body": "Every share names who asks, what they get, why, and until when — shaped by the Digital Personal Data Protection Act, 2023."
+      },
+      {
+        "title": "A record of every access",
+        "body": "See which officer opened your documents, when, and for what purpose. Revoke access with one switch."
+      },
+      {
+        "title": "Proof you can verify",
+        "body": "Every action ends with a reference you can check on the official portal."
+      },
+      {
+        "title": "No ads. No selling data. No dark patterns.",
+        "body": "A public service should never compete for your attention."
+      }
+    ],
+    "standards": "Designed to WCAG 2.1 AA, GIGW 3.0 and UX4G guidelines.",
+    "receipt": {
+      "label": "Payment receipt",
+      "title": "Property tax paid",
+      "ref": "TXN-2026-190302",
+      "amount": "₹2,450",
+      "to": "Nagar Nigam, Kanpur",
+      "date": "24 May 2026",
+      "verify": "Verify on the official portal",
+      "sample": "Sample",
+      "refLabel": "Reference",
+      "toLabel": "Paid to",
+      "dateLabel": "Date"
+    }
+  },
+  "journey": {
+    "title": "From a promise to a companion.",
+    "intro": "Scroll through a hundred years of the idea that government should serve every citizen.",
+    "target": "Design target",
+    "items": [
+      {
+        "year": "1947",
+        "title": "Independence",
+        "body": "A promise of dignity for every citizen."
+      },
+      {
+        "year": "1950",
+        "title": "The Constitution",
+        "body": "Rights that public services exist to deliver."
+      },
+      {
+        "year": "2010",
+        "title": "Aadhaar",
+        "body": "The first number is issued — a verifiable identity for all."
+      },
+      {
+        "year": "2015",
+        "title": "Digital India",
+        "body": "DigiLocker puts official documents on the phone."
+      },
+      {
+        "year": "2016",
+        "title": "UPI",
+        "body": "Instant payments anyone can make."
+      },
+      {
+        "year": "2022",
+        "title": "Bhashini",
+        "body": "Language technology for India's languages."
+      },
+      {
+        "year": "2026",
+        "title": "Saathi, designed",
+        "body": "One door to every service, as a working prototype."
+      },
+      {
+        "year": "2030",
+        "title": "Pilot in three states",
+        "body": "Tested with the people it is for, in their languages.",
+        "target": true
+      },
+      {
+        "year": "2040",
+        "title": "Every district",
+        "body": "All 22 scheduled languages, online and offline.",
+        "target": true
+      },
+      {
+        "year": "2047",
+        "title": "Viksit Bharat",
+        "body": "A government that feels like a companion.",
+        "target": true
+      }
+    ]
+  },
+  "closing": {
+    "title": "See it working.",
+    "body": "Onboard in your language, ask Saathi for a birth certificate, pay a bill, revoke a consent. Everything in the prototype works.",
+    "primary": "Open the prototype",
+    "secondary": "Read how it was designed",
+    "system": "Explore the design system"
+  },
+  "footer": {
+    "tagline": "One door to every government service.",
+    "credit": "A design concept by Krishom, 2026.",
+    "disclaimer": "Saathi is not affiliated with, endorsed by or operated by the Government of India. All data in the prototype is sample data.",
+    "sourcesTitle": "Sources",
+    "sources": [
+      {
+        "label": "Aadhaar numbers issued (April 2025)",
+        "url": "https://indiantelevision.com/regulators/digital-india-powers-wider-access-with-144-crore-aadhaar-ids-and-55-crore-upi-users/"
+      },
+      {
+        "label": "UPI: 23.2 billion transactions in May 2026, NPCI data",
+        "url": "https://www.tribuneindia.com/news/business/upi-hits-new-high-in-may-2026-with-23-2-billion-transactions-worth-rs-29-9-trillion-npci-data-shows/"
+      },
+      {
+        "label": "DigiLocker registered users (2026)",
+        "url": "https://organiser.org/2026/06/30/360456/bharat/from-aadhaar-to-upi-how-digital-indias-11-year-journey-rewired-governance-welfare-and-economy/"
+      }
+    ],
+    "links": {
+      "prototype": "Prototype",
+      "caseStudy": "Case study",
+      "system": "Design system",
+      "portfolio": "Krishom's portfolio"
+    }
+  },
+  "scale": {
+    "eyebrow": "System architecture",
+    "title": "Built for 30 lakh requests an hour.",
+    "intro": "A scholarship deadline night, a PM-KISAN instalment day, an exam result at 10 AM — public services get their worst traffic all at once. Saathi is designed so that peak lands on a cache and a queue, not on a single server or a department's old database.",
+    "flow": {
+      "aria": "Diagram: requests from people's phones. Most are answered by a nearby copy and return at once; a small stream passes a fair gate, counters that open more windows, and a token line, on to government offices.",
+      "answered": "85 of 100 answered here, instantly",
+      "onward": "only 15 go on",
+      "legend": "Each dot is one request. Drag the number above — a busier hour makes the dots faster, and more counters open.",
+      "people": {
+        "title": "Lakhs of people at once",
+        "body": "on phones, at CSCs and helplines"
+      },
+      "nearby": {
+        "title": "A copy kept nearby",
+        "body": "Screens and scheme pages are already on the phone and in centres across India, so most taps are answered on the spot."
+      },
+      "gate": {
+        "title": "A fair entry gate",
+        "body": "Everyone gets a fair turn. Pressing Submit 50 times can't push anyone else out."
+      },
+      "counters": {
+        "title": "Counters that open themselves",
+        "body": "Like a station opening more ticket windows when the crowd grows — and closing them when it's quiet."
+      },
+      "token": {
+        "title": "Token line",
+        "body": "You get your token number in a second. Your application is handled in turn — never lost, even on the busiest day."
+      },
+      "govt": {
+        "title": "Government offices",
+        "body": "Aadhaar, DigiLocker, UPI and departments get work at a pace they can handle."
+      }
+    },
+    "journey": {
+      "title": "Follow one request",
+      "intro": "Not every request is the same. Opening a screen, checking a status, filing an application and paying a fee each take a different path — pick one and watch where it goes, how long each stop takes, and what happens if that stop has a problem.",
+      "play": "Play",
+      "pause": "Pause",
+      "total": "Total:",
+      "ifFails": "If something goes wrong:",
+      "step": "Step {n} of {total}",
+      "kinds": [
+        {
+          "key": "screen",
+          "label": "Opening a screen",
+          "total": "under 0.1 s",
+          "summary": "Sunita opens the PM-KISAN page. This is what 85 of every 100 requests look like — no server is touched at all.",
+          "steps": [
+            {
+              "stop": "phone",
+              "title": "She taps PM-KISAN",
+              "time": "0 s",
+              "body": "The app was installed once and keeps its screens on the phone, like a printed booklet in her pocket."
+            },
+            {
+              "stop": "nearby",
+              "title": "The page opens from the nearby copy",
+              "time": "0.05 s",
+              "body": "Scheme pages are kept on the phone and in data centres across India. The page appears at once — even on 2G.",
+              "fail": "No signal at all? The saved copy still opens, and anything she fills in waits on the phone until the network returns."
+            }
+          ]
+        },
+        {
+          "key": "status",
+          "label": "Checking status",
+          "total": "about 0.2 s",
+          "summary": "Rakesh checks where his daughter's birth certificate has reached. It needs fresh information, so it goes past the gate — but never into the main record book.",
+          "steps": [
+            {
+              "stop": "phone",
+              "title": "He opens Track",
+              "time": "0 s",
+              "body": "The last status he saw shows instantly from the phone, so the screen is never blank while the new one loads."
+            },
+            {
+              "stop": "gate",
+              "title": "The gate checks it's really him",
+              "time": "0.02 s",
+              "body": "His login is checked and his turn is counted. Refreshing 100 times a minute can't slow anyone else down.",
+              "fail": "Too many refreshes? He's politely asked to wait a few seconds — everyone else carries on normally."
+            },
+            {
+              "stop": "counter",
+              "title": "A counter reads a quick copy of the records",
+              "time": "0.1 s",
+              "body": "Status is read from a fast copy kept for reading, not from the main book where new applications are written. Lakhs of people can check at once without slowing down filing.",
+              "fail": "If the quick copy is busy, the counter reads the main book instead. Slower by a moment, never wrong."
+            },
+            {
+              "stop": "phone",
+              "title": "The new status appears",
+              "time": "0.2 s",
+              "body": "“With Priya Nair, verification — expected in 3 days”, with a named officer and a date."
+            }
+          ]
+        },
+        {
+          "key": "apply",
+          "label": "Submitting an application",
+          "total": "1 s to get a token number",
+          "summary": "Rakesh applies for the birth certificate at 11 PM on a busy night. He gets his token number in about a second; the office does the work in turn.",
+          "steps": [
+            {
+              "stop": "phone",
+              "title": "The form is saved on the phone as he types",
+              "time": "while typing",
+              "body": "Every answer is kept on the phone. Hospital records come from DigiLocker, so most of the form fills itself.",
+              "fail": "Battery dies or the app closes? He reopens it and the form is exactly where he left it."
+            },
+            {
+              "stop": "gate",
+              "title": "He taps Submit — the gate stamps it once",
+              "time": "0.05 s",
+              "body": "The application gets a unique stamp. Even if he taps Submit five times, it can only ever be filed once.",
+              "fail": "Signal drops while sending? The app sends it again by itself when the network returns — the stamp means it's never filed twice."
+            },
+            {
+              "stop": "counter",
+              "title": "A counter checks the details",
+              "time": "0.3 s",
+              "body": "Are all the fields there? Do the documents match Aadhaar? Problems are shown to him now, in his language — not ten days later as a rejection.",
+              "fail": "If Aadhaar's system is slow tonight, the application is still accepted and the check finishes later. He doesn't have to wait or come back."
+            },
+            {
+              "stop": "token",
+              "title": "It joins the token line — he gets his number",
+              "time": "1 s",
+              "body": "The application is written safely in two places and gets reference BC-2026-UP-07734. From this moment it cannot be lost.",
+              "fail": "Even if a whole data centre goes down, the second copy carries on. Nothing he has submitted disappears."
+            },
+            {
+              "stop": "office",
+              "title": "Nagar Nigam receives it in turn",
+              "time": "minutes, at the office's pace",
+              "body": "Applications are handed to the office at the speed its own system can take, oldest first — so a busy night never crashes the office's system.",
+              "fail": "If the office's system is down, the application waits in line and is retried every few minutes. Rakesh is told; nothing is lost."
+            },
+            {
+              "stop": "phone",
+              "title": "He is kept informed at every stage",
+              "time": "SMS + app",
+              "body": "An SMS and a Track update when an officer picks it up, approves it, and when the certificate lands in his DigiLocker."
+            }
+          ]
+        },
+        {
+          "key": "pay",
+          "label": "Paying a fee",
+          "total": "about 5 s, with his own UPI app",
+          "summary": "Rakesh pays ₹2,450 property tax. Money needs one extra rule: it must never be taken twice, and never lost.",
+          "steps": [
+            {
+              "stop": "phone",
+              "title": "He taps Pay ₹2,450",
+              "time": "0 s",
+              "body": "The amount, the office and the due date come from Nagar Nigam's own record — he doesn't type any of them."
+            },
+            {
+              "stop": "gate",
+              "title": "The gate stamps the payment once",
+              "time": "0.05 s",
+              "body": "The payment gets a unique stamp before any money moves. However many times he taps, there can only be one payment.",
+              "fail": "If he taps twice by mistake, the second tap just shows the first payment — it never creates a new one."
+            },
+            {
+              "stop": "bank",
+              "title": "He approves in his own UPI app",
+              "time": "about 4 s",
+              "body": "His bank asks for his UPI PIN — in the bank's app, not Saathi's. Saathi never sees his PIN or bank details.",
+              "fail": "Money taken but no confirmation? Saathi checks with the bank every few minutes until it knows: either the receipt is issued, or the money is refunded automatically within 5 days."
+            },
+            {
+              "stop": "token",
+              "title": "The receipt is recorded",
+              "time": "0.5 s",
+              "body": "The payment is written safely in two places and a receipt with a verification code appears at once."
+            },
+            {
+              "stop": "office",
+              "title": "Nagar Nigam marks the tax paid",
+              "time": "in turn",
+              "body": "The office's records are updated in order. If its system is busy, the receipt he already holds is his proof."
+            }
+          ]
+        }
+      ]
+    },
+    "calc": {
+      "label": "Requests in one hour",
+      "perHour": "per hour",
+      "peak": "Requests in the busiest second",
+      "edge": "Answered instantly, nearby",
+      "api": "Reach Saathi's computers",
+      "servers": "Counters open (servers)",
+      "writes": "Records saved each second",
+      "shards": "Record books, split by state",
+      "assumptions": "Model: the busiest minute runs at 4× the hour's average; 85% of requests (app screens, scripts, images, scheme pages) are served by the CDN or the phone's offline cache; one service instance handles 250 requests a second at 60% load; at least 3 instances run in each of 2 regions; 12% of server requests write data; one PostgreSQL primary takes 3,000 writes a second. Design targets, to be proven with load tests — not measured on this prototype."
+    },
+    "arch": {
+      "title": "For engineers: the full architecture",
+      "intro": "Seven layers, each one able to grow on its own. Nothing a citizen does depends on a single machine.",
+      "layers": {
+        "people": {
+          "title": "Citizens, CSCs and helplines",
+          "body": "The installable app works offline and on 2G. It keeps screens and forms on the phone, so most taps never need the network at all."
+        },
+        "edge": {
+          "title": "Edge: CDN, firewall, DDoS shield",
+          "body": "Screens, scripts and scheme pages are cached in data centres across India. Bots and floods are filtered here, before they reach anything that costs money."
+        },
+        "gateway": {
+          "title": "API gateway",
+          "body": "Checks the session, limits each person and each device to a fair rate, and routes the request. A citizen can't knock the system over by tapping Submit fifty times."
+        },
+        "services": {
+          "title": "Stateless services that scale themselves",
+          "body": "Small services on Kubernetes in two Indian cloud regions (MeghRaj / NIC). When load rises, more copies start in under a minute; when it falls, they stop."
+        },
+        "queue": {
+          "title": "Event queue",
+          "body": "Submissions, payments and notifications go into a durable queue (Kafka). The citizen gets a reference number instantly; workers process in order, at the pace each department can take."
+        },
+        "data": {
+          "title": "Data, split by state",
+          "body": "PostgreSQL sharded by state, with read replicas, plus a Redis cache for hot data. Documents stay in DigiLocker — Saathi stores the reference, not a second copy."
+        },
+        "rails": {
+          "title": "Government rails",
+          "body": "Aadhaar e-KYC, DigiLocker, UPI, PFMS and department systems are called through circuit breakers with retries and timeouts, so one slow system can't slow down the rest."
+        }
+      }
+    },
+    "services": [
+      "Identity",
+      "Applications",
+      "Payments",
+      "Saathi AI",
+      "Notifications",
+      "Department console",
+      "Audit log"
+    ],
+    "movesTitle": "What happens on the worst day",
+    "moves": [
+      {
+        "title": "Most traffic never reaches a server",
+        "body": "About 85% of requests are answered by the CDN or the phone's own cache. At 30 lakh requests an hour, only ~500 a second reach Saathi's servers at the peak."
+      },
+      {
+        "title": "Servers multiply before the queue builds",
+        "body": "Autoscaling adds instances when CPU passes 60% and keeps a minimum running in both regions, even at night. Capacity follows demand instead of being guessed in advance."
+      },
+      {
+        "title": "A burst becomes a line, not a crash",
+        "body": "If departments can't keep up, applications wait safely in the queue. Nothing is lost, the citizen already has their reference number, and Track shows where they are."
+      },
+      {
+        "title": "A virtual waiting room above capacity",
+        "body": "If demand ever passes what's provisioned, new sessions get a fair place in line with an honest wait time — people already in the middle of a form are never cut off."
+      },
+      {
+        "title": "Graceful degradation",
+        "body": "If Aadhaar or a department system is slow, Saathi saves the form as a draft and messages the citizen when it's through. If AI is overloaded, it falls back to the scripted, reviewed answers."
+      },
+      {
+        "title": "Two regions, no single point of failure",
+        "body": "Each state's data is replicated to a second region. If a whole region goes down, traffic moves over in minutes, with no loss of submitted applications."
+      },
+      {
+        "title": "Proven before launch",
+        "body": "Load tests at 2× the target peak, chaos tests that switch off servers mid-test, and live dashboards with alerts on latency and error rate — before any real citizen depends on it."
+      }
+    ],
+    "honest": "Honest note: the site you're using is a static prototype with no servers behind it. This page is the production design and its capacity targets — the numbers will be proven with load tests in the pilot, not claimed in advance."
+  },
+  "split": {
+    "eyebrow": "System & data architecture",
+    "title": "One front door. A separate back room for every service.",
+    "intro": "Citizens see one Saathi app. Behind it, every service runs on its own group of servers with its own data. When 30 lakh people are online at once, the crowd is split by what they opened — so an exam-result rush grows the Exams room alone, and a birth certificate is never slowed down by it.",
+    "math": {
+      "people": "people using Saathi at the same moment",
+      "requests": "requests a second — each active person taps about once every {s} seconds",
+      "routed": "a second reach the servers — the rest are answered on the phone or nearby"
+    },
+    "pickDay": "Pick the day:",
+    "days": {
+      "exams": "Exam result day",
+      "kisan": "PM-KISAN payout day",
+      "tax": "Tax deadline night",
+      "normal": "A normal day"
+    },
+    "aria": "Diagram: one Saathi app sends every request to a router, which sends it to a separate lane for each service — certificates, land and farming, taxes, transport, exams and health — each with its own servers and data, and on to that department's system.",
+    "app": {
+      "title": "One Saathi app",
+      "body": "the same front door for every service, in every language"
+    },
+    "router": {
+      "title": "Smart router",
+      "body": "reads which service you opened and sends you to its room"
+    },
+    "lanes": {
+      "certs": "Certificates · Nagar Nigam",
+      "land": "Land & farming · PM-KISAN",
+      "tax": "Taxes & bills",
+      "transport": "Transport · RTO",
+      "exams": "Exams & results",
+      "health": "Health · Ayushman"
+    },
+    "perSec": "{n}/s",
+    "servers": "{n} servers",
+    "ownData": "Its own database",
+    "dept": {
+      "title": "Each department's own system",
+      "body": "work handed over at a pace it can take"
+    },
+    "verdict": {
+      "exams": "Result day: the {lane} room grows to {n} servers on its own.",
+      "kisan": "Payout day: the {lane} room grows to {n} servers on its own.",
+      "tax": "Deadline night: the {lane} room grows to {n} servers on its own.",
+      "normal": "On a normal day the crowd is spread across every room — none needs more than {n} servers."
+    },
+    "verdictTail": "The other rooms don't feel it — they keep their own servers and their own data, so a birth certificate or a challan payment is as fast as on any other day. And if one room ever fails, only that service pauses; everything else keeps working.",
+    "shared": {
+      "title": "Shared once, used by every room",
+      "intro": "A few things every service needs are built once and kept very light, so they never become the bottleneck.",
+      "items": [
+        {
+          "title": "Login with Aadhaar OTP",
+          "body": "You sign in once. Every room trusts the same pass, so you never log in again for each service."
+        },
+        {
+          "title": "Consent & privacy",
+          "body": "One record of what you allowed, to whom and until when — every room must check it before using your data."
+        },
+        {
+          "title": "Notifications",
+          "body": "One SMS and app-message service for every department, so updates reach you the same way."
+        },
+        {
+          "title": "Your profile & documents",
+          "body": "Kept once, and documents stay in DigiLocker — rooms receive a reference, never a copy to store."
+        }
+      ]
+    },
+    "data": {
+      "title": "How the data is organised",
+      "intro": "Splitting the servers only works if the data is split the same way. Four rules:",
+      "items": [
+        {
+          "title": "Each room owns its own data",
+          "body": "The Exams room has its own database; it can't slow down or break the Certificates database, and no room reaches into another's."
+        },
+        {
+          "title": "Inside a room, data is split by state",
+          "body": "Uttar Pradesh's certificates live apart from Kerala's. A rush in one state never touches another, and each state's data stays in India."
+        },
+        {
+          "title": "Rooms talk through one message line",
+          "body": "When a birth certificate is issued, the Certificates room posts “certificate issued”. The Health room hears it and starts Janani Suraksha — without the two databases being tied together."
+        },
+        {
+          "title": "Two copies, two regions",
+          "body": "Every room's data is written to a second region as it happens. If a data centre goes down, that room carries on from the copy, with nothing lost."
+        }
+      ]
+    },
+    "model": "Model: 30 lakh people online at once, each making a request about every 20 seconds (1,50,000 a second); 85% answered on the phone or from the nearby copy; one server handles 250 requests a second; every room keeps at least 4 servers (2 in each region). Shares per service are illustrative. Design targets, to be proven with load tests in the pilot — not measured on this prototype."
+  },
+  "departments": {
+    "eyebrow": "Saathi for Departments",
+    "title": "Both sides of the counter.",
+    "intro": "Every service in the app has a desk on the other side. Fifteen department consoles review applications, check e-KYC with a stated purpose, issue signed records and run challans, exams and benefit transfers — and every decision reaches the citizen in their language.",
+    "cta": "Open the department console",
+    "ctaSecondary": "See the RTO's challans",
+    "frameLabel": "Saathi for Departments · Nagar Nigam, Kanpur",
+    "points": [
+      {
+        "title": "Purpose before personal data",
+        "body": "Aadhaar details stay masked until an officer states why — and the citizen sees that look in their privacy dashboard."
+      },
+      {
+        "title": "Decisions reach the citizen live",
+        "body": "Approve, ask for a document or reject with a reason, and the citizen's app updates in the same moment."
+      },
+      {
+        "title": "Signed records, straight to DigiLocker",
+        "body": "Certificates, licences and marksheets are signed digitally and land in the citizen's wallet — no printouts, no visits."
+      },
+      {
+        "title": "An audit trail that can't be edited",
+        "body": "Every decision and every look at data is logged with who, when and why — for the office, the auditor and the citizen."
+      }
+    ]
+  }
+}

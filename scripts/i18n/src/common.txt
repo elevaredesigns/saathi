@@ -1,0 +1,551 @@
+1	Saathi
+2	Your companion through citizen life
+3	Choose your language
+4	English
+5	Language changed
+6	Search languages
+7	Clear
+8	Suggested for Uttar Pradesh
+9	Available now · {count}
+10	No language matches that
+11	Preview
+12	English, हिन्दी, বাংলা and தமிழ் are fully authored. The other 19 languages of the Eighth Schedule are machine-assisted translations awaiting native-speaker review.
+13	Home
+14	Explore
+15	Apply
+16	Track
+17	Me
+18	Saathi
+19	Continue
+20	Done
+21	Back
+22	Cancel
+23	Next
+24	Skip
+25	Close
+26	Submit
+27	Save
+28	Edit
+29	Search
+30	Try again
+31	Yes
+32	No
+33	Get started
+34	See all
+35	Coming in a later phase
+36	Change language
+37	Close
+38	Open
+39	Listening
+40	Start voice input
+41	Stop voice input
+42	Loading
+43	Scroll for more
+44	Read aloud
+45	Submitted
+46	In progress
+47	Approved
+48	Ready
+49	Pending
+50	Action needed
+51	Not approved
+52	Verified
+53	Quick actions
+54	Documents
+55	Track
+56	Pay bills
+57	Get help
+58	Your applications
+59	Suggested for you
+60	What's new
+61	DigiLocker now in 12 languages
+62	Your documents, in your own script.
+63	Pension payouts are faster
+64	Direct to your account within 48 hours.
+65	Good morning, {name}
+66	Good afternoon, {name}
+67	Good evening, {name}
+68	Ask Saathi
+69	Speak to Saathi
+70	Get my daughter's birth certificate
+71	Which schemes am I eligible for?
+72	Pay my property tax
+73	Where is my Ayushman card?
+74	Submit my father's life certificate
+75	Saathi ID
+76	Show QR
+77	Hide QR
+78	Sample
+79	Show this at any office
+80	A one-time code that proves it's you — no photocopies.
+81	Refreshes in {time}
+82	Needs attention
+83	Apply
+84	Pay
+85	Documents
+86	Help
+87	Now: {step}
+88	Ready — nothing left to do
+89	For you
+90	Schemes that match your profile
+91	Match
+92	Savings
+93	End-to-end encrypted
+94	Official sources only
+95	You control your data
+96	Open privacy dashboard
+97	Notifications
+98	Mark all as read
+99	You're all caught up
+100	Life moments
+101	Services
+102	For you
+103	Start from what's happening in your life.
+104	Every department, organised by what you need.
+105	Schemes you may be eligible for, best matches first.
+106	Eligibility
+107	Why you may qualify
+108	Benefit
+109	Department
+110	Apply now
+111	Related services
+112	Schemes you may get
+113	Common tasks
+114	Everything this moment usually involves, gathered in one place — so you don't have to know which department does what.
+115	No schemes linked yet.
+116	Search services, schemes, documents
+117	Clear
+118	Cancel
+119	Popular right now
+120	Birth certificate
+121	Property tax
+122	Driving licence
+123	Scholarship
+124	Ayushman
+125	Not sure what it's called?
+126	Just tell Saathi what you need.
+127	No matches for “{q}”
+128	Ask Saathi
+129	Things to do
+130	Schemes
+131	Services
+132	Life moments
+133	{services} services · {schemes, plural, =0 {no schemes} one {# scheme} other {# schemes}}
+134	Life moment
+135	Service
+136	Your checklist
+137	In the order most people need them
+138	Let Saathi handle all of this
+139	It prepares each application and asks before it submits anything.
+140	What you can do
+141	For you
+142	Official scheme
+143	Matches your profile
+144	Savings account
+145	Based on what you told Saathi
+146	Check these criteria — Saathi verifies them when you apply
+147	At a glance
+148	Portal
+149	Processing time
+150	Fee
+151	Documents
+152	{count, plural, =0 {None needed} one {# document} other {# documents}}
+153	How it works
+154	Apply in Saathi
+155	Details fill from your profile and DigiLocker. You review everything.
+156	Department verifies
+157	A named officer checks your application — you can see who and when.
+158	Benefit reaches you
+159	Paid directly to your Aadhaar-linked bank account.
+160	Speak. I'm listening.
+161	Did you say this?
+162	Yes, fill it in
+163	Try saying
+164	Show my applications
+165	Apply for a birth certificate
+166	Switch language
+167	Say a language
+168	Opening {screen}
+169	Say the language you'd like
+170	Fill this step by speaking
+171	Say it the way you'd tell a person
+172	Listening…
+173	Say the details in your own words, in any language.
+174	I'm done
+175	Here's what I understood
+176	Fill {count, plural, one {# field} other {# fields}}
+177	Start application
+178	What you'll need
+179	Estimated time
+180	Fill by voice
+181	Step {n} of {total}
+182	Upload a document
+183	A clear photo or PDF of a supporting document.
+184	Document added
+185	Choose file
+186	Review & submit
+187	Submit application
+188	Application submitted
+189	We'll keep you updated. Track it anytime.
+190	Reference number
+191	Download PDF
+192	Share
+193	Saved
+194	Track application
+195	Back to home
+196	Portal
+197	Department
+198	Amount payable
+199	Fee
+200	Select
+201	Documents
+202	Saathi can fetch these straight from your DigiLocker — already verified by the issuer.
+203	Submit application
+204	Pay {amount}
+205	Submit renewal
+206	Submit registration
+207	Get document
+208	Lodge complaint
+209	Application submitted
+210	Payment successful
+211	Renewal submitted
+212	Registration submitted
+213	Document ready
+214	Complaint registered
+215	Reference number
+216	Transaction ID
+217	Acknowledgement no.
+218	Complaint ID
+219	{amount} paid
+220	Free
+221	Application
+222	Payment
+223	Renewal
+224	Registration
+225	Download
+226	Complaint
+227	Goes directly to {portal}
+228	Steps
+229	{count, plural, one {# step} other {# steps}}
+230	Saathi fills in what it already knows. Nothing is sent until you review it and submit.
+231	Continue to payment
+232	Back to review
+233	Fetch all from DigiLocker
+234	Fetching…
+235	From DigiLocker · verified
+236	Uploaded · will be checked by an officer
+237	Not added yet
+238	Upload
+239	All documents added
+240	Check everything once. This goes to {portal} as you see it.
+241	Edit
+242	{count, plural, one {# document verified} other {# documents verified}}
+243	I confirm these details are true and allow {department} to process this request.
+244	Confirm payment
+245	Paying
+246	Verified government payee
+247	Pay from
+248	Pay {amount}
+249	Approve in your UPI app…
+250	Payment approved
+251	Simulated — in real life you'd approve with your UPI PIN in your own bank app. Saathi never sees it.
+252	Date & time
+253	Amount paid
+254	Copy
+255	Copied
+256	Verify on {portal}
+257	Sample QR — for illustration
+258	What happens next: a named officer reviews it, and you'll get an SMS at every stage. Track it any time.
+259	What happens next: nothing — your dues are cleared and the receipt is saved in Track.
+260	What happens next: your document is ready to download, share or show from your wallet.
+261	What happens next: your complaint is assigned to an officer, who must respond within 30 days.
+262	Share receipt
+263	Copy link
+264	Message
+265	Email
+266	Save PDF
+267	Done
+268	Shared links show only the reference and status — never your personal details.
+269	Your applications
+270	Nothing here yet
+271	Applications and payments you make appear here with live status.
+272	Submitted on {date}
+273	Progress
+274	{active} in progress · {done} completed
+275	All
+276	In progress
+277	Completed
+278	Find a service
+279	Stage {n} of {total}
+280	Complete
+281	Taking longer than it should?
+282	Need something else?
+283	Ask Saathi what's happening
+284	Plain-language answer, and what you can do
+285	Raise a grievance
+286	Filed on CPGRAMS · response within 30 days
+287	Approved
+288	The office needs something from you
+289	Not approved
+290	Issued to your DigiLocker
+291	Sent — back with the officer
+292	Your application was approved. The record will be issued shortly.
+293	The signed record is in your DigiLocker and wallet.
+294	You added the document from DigiLocker. {officer} at {office} will pick it up — the time limit starts again.
+295	Add it from DigiLocker
+296	Fetched straight from the issuer — nothing to scan or upload.
+297	Added from DigiLocker
+298	Ask Saathi why
+299	Appeal
+300	Open in wallet
+301	My Saathi
+302	Wallet
+303	Family
+304	Preferences
+305	About Saathi
+306	Saathi is a concept — one calm, vernacular-first home for India's citizen services. A UI/UX prototype by Krishom.
+307	Verified
+308	Manage for them
+309	Helping {name}
+310	Exit
+311	Send a request
+312	To {name} · +91 ••••• ••210
+313	Namaste {name}, I've started a Saathi request for you. Please confirm with the OTP sent to your phone. — Rakesh
+314	Send SMS
+315	Request sent
+316	Language
+317	Notifications
+318	Updates on your applications
+319	Accessibility
+320	Reset demo
+321	This clears your profile, applications and preferences, and starts again from the splash screen.
+322	Aadhaar verified
+323	Official documents from DigiLocker — tap one to view or share.
+324	Pending
+325	Validity
+326	Share securely
+327	Ready to share
+328	Expires in 10 minutes
+329	Shows only what the requester needs.
+330	Available to share once verification is complete.
+331	Act on behalf of someone you care for — every action is clearly marked.
+332	Help
+333	{name} gets an SMS to approve with a one-time code.
+334	They stay in control: nothing happens for them until they approve.
+335	Done
+336	Privacy & consent
+337	{count, plural, one {# active consent} other {# active consents}} · see every access
+338	Help & support
+339	Nearest Common Service Centre
+340	In-person help, free
+341	CSC Civil Lines
+342	Mall Road, Kanpur Nagar
+343	CSC Swaroop Nagar
+344	Near Moti Jheel, Kanpur
+345	CSC Kakadeo
+346	Kakadeo Crossing, Kanpur
+347	Talk to a person
+348	Toll-free, in your language
+349	8 AM – 10 PM, all days · Hindi, English and 10 more languages
+350	Sample number for the prototype.
+351	Reset the prototype?
+352	Reset
+353	Cancel
+354	Flip card
+355	Flip back
+356	Tap the card to flip it
+357	Close
+358	Front of card
+359	Back of card
+360	Sample QR
+361	Digitally signed · {issuer}
+362	Share
+363	Your companion through citizen life
+364	Choose your language
+365	23 languages — every one in the Eighth Schedule, plus English. Change it anytime.
+366	One door to every government service
+367	Schemes, documents, payments and applications — in your language, by voice or touch.
+368	One place, every department
+369	Stop juggling apps. Start from what's happening in your life.
+370	In your language
+371	Every screen, every form — switch any time.
+372	Speak instead of typing
+373	Tell Saathi what you need. It fills the forms for you.
+374	Get started
+375	Let's verify it's you
+376	Enter your 12-digit Aadhaar number. We'll send a one-time code to your linked mobile.
+377	Used only to verify your identity with UIDAI. Saathi never stores your full Aadhaar number.
+378	Verified with UIDAI · encrypted end to end
+379	Send OTP
+380	Enter all 12 digits to continue.
+381	Use DigiLocker instead
+382	Looks good.
+383	Enter the code
+384	We sent a 6-digit code to {phone}.
+385	Resend code
+386	Resend in {seconds}s
+387	Change number
+388	Verify
+389	Verified — continuing…
+390	Prototype: any 6 digits will work.
+391	A few details
+392	So Saathi can personalise things for you.
+393	Full name
+394	Your name
+395	Gender
+396	Male
+397	Female
+398	Other
+399	Continue
+400	Fetched from Aadhaar (UIDAI)
+401	District
+402	What's happening in your life?
+403	Pick any that apply. This helps us show schemes you may be eligible for.
+404	Continue
+405	Skip for now
+406	A new baby
+407	Looking for work
+408	Getting married
+409	Buying a home
+410	Senior citizen
+411	Student
+412	Farmer
+413	Small business
+414	Continue with {count}
+415	Make Saathi yours
+416	Turn on what helps you. Change these anytime in settings.
+417	Continue
+418	Voice help
+419	Fill forms by speaking
+420	Larger text
+421	Bigger, clearer type
+422	Slow mode
+423	More time, simpler steps
+424	Read aloud
+425	Hear labels and buttons
+426	High contrast
+427	Stronger colours
+428	Preview
+429	Your birth certificate is ready to collect.
+430	You're all set
+431	Welcome, {name}. Whenever you need the government, Saathi is one tap — or one sentence — away.
+432	Enter Saathi
+433	Language
+434	{count, plural, =0 {No life moments yet} one {# life moment} other {# life moments}}
+435	{count, plural, =0 {Standard settings} one {# accessibility aid} other {# accessibility aids}}
+436	Step {n} of {total}
+437	Share details with Saathi?
+438	Saathi can fetch these from your Aadhaar record so you never retype them.
+439	From
+440	UIDAI · DigiLocker
+441	To
+442	Saathi
+443	Choose what to share
+444	Full name
+445	Date of birth
+446	Address
+447	Photograph
+448	Purpose
+449	Pre-fill your applications
+450	Valid for
+451	1 year · revoke anytime
+452	You can see every use of this data and withdraw consent in Privacy, as the DPDP Act, 2023 requires.
+453	Allow
+454	Don't allow
+455	That's completely fine
+456	Saathi works without it — you'll just type details yourself.
+457	Nothing is fetched from UIDAI or DigiLocker. You can allow sharing later, one field at a time, from Me → Privacy.
+458	Continue without sharing
+459	Review sharing again
+460	Interactive prototype
+461	One door to every government service. Everything here works — tap through real flows in 23 languages.
+462	Try these flows
+463	Language
+464	Reset demo
+465	Demo reset
+466	A design concept. All data is sample data; DigiLocker, UPI and portal steps are simulated.
+467	Ask Saathi AI
+468	An assistant that does the work for you
+469	Birth certificate by voice
+470	Speak the details, Saathi fills the form
+471	Pay property tax
+472	Dues, UPI payment and a verifiable receipt
+473	Track an Ayushman card
+474	Named officers, dates and next steps
+475	Help your mother
+476	Family proxy mode across the whole app
+477	Privacy dashboard
+478	See who used your data and revoke it
+479	Open a department console
+480	Decide on the citizen's case — watch the app update
+481	Your data
+482	Privacy & consent
+483	Nothing about you is shared without your permission. See who can use your data, who actually did — and switch it off any time.
+484	Active consents
+485	Accesses this month
+486	Who can use your data
+487	Switch off to revoke instantly.
+488	Purpose
+489	Valid
+490	Revoked — access stopped
+491	Who accessed it
+492	Every view is recorded with a reason.
+493	Download a copy of my data
+494	Ready · sent to your DigiLocker
+495	Report misuse
+496	Designed around the Digital Personal Data Protection Act, 2023 and consent-based sharing (DEPA).
+497	Saathi AI
+498	Official sources · asks before it acts
+499	How can I help, {name}?
+500	Ask in your own words. I can apply, pay, track and explain — and I always ask before I submit anything.
+501	Ask Saathi anything
+502	Send
+503	Speak
+504	Listening…
+505	Stop
+506	New
+507	Valid
+508	Approved
+509	Cancelled — nothing was shared
+510	Edit details
+511	Cancel
+512	You can revoke this any time in Privacy.
+513	Ref
+514	Open
+515	Scripted demo · no live AI model · always asks before acting
+516	Back
+517	Traffic challans
+518	Check your challans
+519	See every challan on your vehicle with the camera evidence, pay the ones you accept, and contest the rest.
+520	Vehicle number
+521	Licence number
+522	Vehicle registration number
+523	Driving licence number
+524	From your RC in DigiLocker · {model}
+525	Find challans
+526	Searching eChallan records
+527	{count, plural, one {# challan pending} other {# challans pending}}
+528	No pending challans
+529	Official record
+530	View evidence
+531	View evidence & details
+532	Paid
+533	In Virtual Court
+534	Pay
+535	Challan no.
+536	Recorded by
+537	Contest this challan
+538	Pay {amount} · {count, plural, one {# challan} other {# challans}}
+539	Select challans to pay
+540	Paying a challan closes it on the eChallan system instantly. Contested challans go to the Virtual Court; nothing is payable until a judge decides.
+541	Contest in Virtual Court
+542	Challan {no} will be sent to the Virtual Court with the camera evidence and your reason.
+543	You may be asked for proof (for example, a sale letter or hospital record). A decision usually comes within 30 days.
+544	Send to Virtual Court
+545	Sent to the Virtual Court
+546	You'll get an SMS when a judge reviews it. Track it anytime in Track.
+547	Done
+548	Every challan shows the camera frame, time and place it was recorded.
+549	Pay one or several at once by UPI — they close instantly.
+550	Think it's wrong? Send it to the Virtual Court with a reason.
+551	Coming soon

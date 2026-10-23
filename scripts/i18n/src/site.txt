@@ -1,0 +1,213 @@
+1	A design concept for Viksit Bharat @2047
+2	How to identify official websites
+3	Real government websites
+4	Official addresses
+5	Government sites end in .gov.in or .nic.in.
+6	Secure connection
+7	Look for the padlock and https:// before you share anything.
+8	Never pay an agent
+9	Officials never ask for your OTP, PIN or a fee over a call or message.
+10	Saathi is a design concept by Krishom. It is not a Government of India website.
+11	Close
+12	Vision
+13	Saathi AI
+14	Pillars
+15	Languages
+16	Trust
+17	Case study
+18	Open prototype
+19	Menu
+20	Close menu
+21	Skip to content
+22	Departments
+23	Accessibility options
+24	Make this page easier to use
+25	Text size
+26	Default
+27	Large
+28	Larger
+29	High contrast
+30	Reduce motion
+31	Read this page aloud
+32	Stop reading
+33	Reset
+34	Designed for Viksit Bharat @2047
+35	One door to every government service.
+36	Saathi is a citizen app that starts from your life, not from a department. Ask in your own language — it finds what you're entitled to, fills in the forms and keeps the receipts.
+37	Try the prototype
+38	Read the case study
+39	Switch the whole site
+40	This phone is the live prototype. Tap around.
+41	+ 19 more in the app
+42	Today, a citizen has to find the right app among hundreds.
+43	Different logins, different languages, different forms — and a fake portal one search result away.
+44	Saathi is one door.
+45	Every service, organised around what's happening in your life: a birth, a harvest, a first job, a pension.
+46	Keep scrolling
+47	The rails are built. The door is missing.
+48	India already runs the largest digital public infrastructure in the world.
+49	crore+
+50	Aadhaar numbers issued
+51	billion
+52	UPI payments in May 2026 alone
+53	crore+
+54	DigiLocker accounts
+55	Yet a citizen still has to know which app, which portal and which form. Saathi is the front door those rails were waiting for — built on them, not beside them.
+56	How Saathi would connect
+57	Conceptual integrations. Saathi is not affiliated with these platforms.
+58	Aadhaar
+59	Proves it's you
+60	Brings verified documents
+61	Pays fees and dues
+62	Speaks your language
+63	Talks to departments
+64	Escalates complaints
+65	Tell it what you need. It does the paperwork.
+66	Saathi AI is an assistant that acts — but only after it shows you the plan and you say yes.
+67	Ask the way you'd ask a person
+68	In your own language, by voice or by typing. No department names, no form numbers.
+69	See the plan before anything happens
+70	Saathi lays out every step, which official service it will use, and why.
+71	Nothing leaves your phone without your yes
+72	You see exactly what is shared, with whom, and for how long. Change it or cancel it.
+73	Proof, every time
+74	Every action ends with a reference number, a named officer and a date — and anything else you're owed.
+75	I need to get my daughter's birth certificate
+76	Understanding your request
+77	Here's my plan
+78	Fetch the hospital birth record from DigiLocker
+79	Fill Form 1 for e-District
+80	Check Janani Suraksha Yojana eligibility
+81	Submit to Nagar Nigam, Kanpur
+82	Share with Nagar Nigam, Kanpur?
+83	Your name and address
+84	Aanya's hospital birth record
+85	Until the application closes
+86	Approve
+87	Edit
+88	Application submitted
+89	Priya Nair is reviewing it
+90	Certificate expected in 7 days
+91	You may also get ₹1,400 under Janani Suraksha Yojana.
+92	Approved
+93	Guardrails, built in
+94	Official sources only
+95	Every answer names the department or portal it came from.
+96	Asks before it acts
+97	It never submits, pays or shares without your approval.
+98	Explains itself
+99	“Why you qualify” is shown for every scheme it suggests.
+100	A person is always close
+101	One tap reaches a Common Service Centre or a helpline.
+102	Try Saathi AI in the prototype
+103	Built around the four pillars of Viksit Bharat.
+104	Development measured by the lives it changes — Garib, Yuva, Annadata and Nari.
+105	Entitlements find people, not the other way round.
+106	Ramesh, 67, has his pension life certificate submitted by his son from Saathi — no queue, no agent.
+107	See the pension flow
+108	The poor
+109	Scholarships, skills and a first job in one place.
+110	Ananya renews her driving licence on a twenty-minute train ride.
+111	See the licence renewal
+112	The young
+113	Land records and PM-KISAN, by voice.
+114	Sunita, who reads slowly, asks out loud and hears her instalment status read back.
+115	See PM-KISAN
+116	Farmers
+117	Maternity benefits, a daughter's savings and her certificate — as one checklist.
+118	After Aanya is born, the birth certificate, JSY and Sukanya Samriddhi arrive together.
+119	See the new-baby checklist
+120	Women
+121	It speaks the way India speaks.
+122	Every screen and form in 23 languages — English and all 22 of the Eighth Schedule, in twelve scripts, left to right and right to left. Hindi, Bengali and Tamil are fully authored alongside English; the other 19 are machine-assisted and awaiting native-speaker review.
+123	Try the settings
+124	These are the same controls every Saathi user gets.
+125	Birth certificate
+126	Ready to collect
+127	Collect it from Nagar Nigam, Kanpur, or download it to your DigiLocker.
+128	Larger text
+129	High contrast
+130	Read aloud
+131	Voice on every field
+132	Speak an answer instead of typing it.
+133	Read aloud
+134	Hear any screen in your language.
+135	Slow mode
+136	More time and fewer steps.
+137	Help someone you love
+138	Act for a parent or child, clearly marked.
+139	Made for weak signal
+140	Designed to work offline and on 2G.
+141	Never colour alone
+142	Status is always said in words too.
+143	Trust you can check.
+144	People told us they double-check every government website. Saathi is designed so they can.
+145	Consent before data moves
+146	Every share names who asks, what they get, why, and until when — shaped by the Digital Personal Data Protection Act, 2023.
+147	A record of every access
+148	See which officer opened your documents, when, and for what purpose. Revoke access with one switch.
+149	Proof you can verify
+150	Every action ends with a reference you can check on the official portal.
+151	No ads. No selling data. No dark patterns.
+152	A public service should never compete for your attention.
+153	Designed to WCAG 2.1 AA, GIGW 3.0 and UX4G guidelines.
+154	Payment receipt
+155	Property tax paid
+156	Nagar Nigam, Kanpur
+157	24 May 2026
+158	Verify on the official portal
+159	Sample
+160	Reference
+161	Paid to
+162	Date
+163	From a promise to a companion.
+164	Scroll through a hundred years of the idea that government should serve every citizen.
+165	Design target
+166	Independence
+167	A promise of dignity for every citizen.
+168	The Constitution
+169	Rights that public services exist to deliver.
+170	Aadhaar
+171	The first number is issued — a verifiable identity for all.
+172	Digital India
+173	DigiLocker puts official documents on the phone.
+174	Instant payments anyone can make.
+175	Language technology for India's languages.
+176	Saathi, designed
+177	One door to every service, as a working prototype.
+178	Pilot in three states
+179	Tested with the people it is for, in their languages.
+180	Every district
+181	All 22 scheduled languages, online and offline.
+182	Viksit Bharat
+183	A government that feels like a companion.
+184	See it working.
+185	Onboard in your language, ask Saathi for a birth certificate, pay a bill, revoke a consent. Everything in the prototype works.
+186	Open the prototype
+187	Read how it was designed
+188	Explore the design system
+189	One door to every government service.
+190	A design concept by Krishom, 2026.
+191	Saathi is not affiliated with, endorsed by or operated by the Government of India. All data in the prototype is sample data.
+192	Sources
+193	Aadhaar numbers issued (April 2025)
+194	UPI: 23.2 billion transactions in May 2026, NPCI data
+195	DigiLocker registered users (2026)
+196	Prototype
+197	Case study
+198	Design system
+199	Krishom's portfolio
+200	Saathi for Departments
+201	Both sides of the counter.
+202	Every service in the app has a desk on the other side. Fifteen department consoles review applications, check e-KYC with a stated purpose, issue signed records and run challans, exams and benefit transfers — and every decision reaches the citizen in their language.
+203	Open the department console
+204	See the RTO's challans
+205	Saathi for Departments · Nagar Nigam, Kanpur
+206	Purpose before personal data
+207	Aadhaar details stay masked until an officer states why — and the citizen sees that look in their privacy dashboard.
+208	Decisions reach the citizen live
+209	Approve, ask for a document or reject with a reason, and the citizen's app updates in the same moment.
+210	Signed records, straight to DigiLocker
+211	Certificates, licences and marksheets are signed digitally and land in the citizen's wallet — no printouts, no visits.
+212	An audit trail that can't be edited
+213	Every decision and every look at data is logged with who, when and why — for the office, the auditor and the citizen.

@@ -1,0 +1,58 @@
+import {
+  Bank,
+  Buildings,
+  Car,
+  Certificate,
+  ClipboardText,
+  CurrencyInr,
+  Exam,
+  Fingerprint,
+  FirstAidKit,
+  GraduationCap,
+  HandCoins,
+  HandHeart,
+  HouseLine,
+  MapTrifold,
+  Megaphone,
+  Plant,
+  Receipt,
+  Siren,
+  SquaresFour,
+  Tray,
+  UsersThree,
+  Wrench,
+  type Icon,
+} from "@phosphor-icons/react";
+
+import type { DeptId, ModuleId } from "@/lib/console/departments";
+
+export const DEPT_ICON: Record<DeptId, Icon> = {
+  municipal: Buildings,
+  revenue: MapTrifold,
+  uidai: Fingerprint,
+  transport: Car,
+  health: FirstAidKit,
+  education: GraduationCap,
+  exams: Exam,
+  agriculture: Plant,
+  rural: HouseLine,
+  labour: Wrench,
+  women: HandHeart,
+  social: UsersThree,
+  finance: Bank,
+  incomeTax: Receipt,
+  grievance: Megaphone,
+};
+
+export const MODULE_ICON: Record<ModuleId, Icon> = {
+  overview: SquaresFour,
+  applications: Tray,
+  kyc: Fingerprint,
+  records: Certificate,
+  payments: CurrencyInr,
+  challans: Siren,
+  exams: Exam,
+  dbt: HandCoins,
+  grievances: Megaphone,
+  audit: ClipboardText,
+};

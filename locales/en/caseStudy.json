@@ -1,0 +1,612 @@
+{
+  "accessibility": {
+    "heading": "Designed for the user the others forgot.",
+    "items": [
+      {
+        "title": "Voice on every field",
+        "desc": "Speak any answer instead of typing it."
+      },
+      {
+        "title": "Slow mode",
+        "desc": "More time, fewer steps, gentler pacing."
+      },
+      {
+        "title": "Larger text",
+        "desc": "Scales up without breaking the layout."
+      },
+      {
+        "title": "Audio labels",
+        "desc": "Buttons and labels read aloud."
+      },
+      {
+        "title": "Family / proxy mode",
+        "desc": "Act for a parent or child, clearly framed."
+      },
+      {
+        "title": "Offline support",
+        "desc": "Designed for weak and intermittent signal."
+      },
+      {
+        "title": "Colour-blind safe",
+        "desc": "Status never relies on colour alone."
+      },
+      {
+        "title": "Screen-reader ready",
+        "desc": "Semantic structure and live announcements."
+      }
+    ]
+  },
+  "brand": {
+    "disclaimer": "Saathi is a speculative civic project with its own identity — two arcs and a point, drawn from the tricolour — paired with a clear design-concept disclaimer. It never uses the State Emblem of India, which is legally protected."
+  },
+  "flows": {
+    "heading": "Six flows, designed end to end.",
+    "items": [
+      {
+        "name": "Onboarding",
+        "goal": "From install to ready, in your language.",
+        "desc": "Language, Aadhaar, OTP, a quick profile and accessibility setup — nine calm screens."
+      },
+      {
+        "name": "Life Moments",
+        "goal": "Find services by what's happening to you.",
+        "desc": "A new baby surfaces birth registration, vaccination and benefits — together."
+      },
+      {
+        "name": "Voice Form Entry",
+        "goal": "Fill a form by speaking.",
+        "desc": "Tap the mic, speak, confirm the structured answer, and the field fills itself."
+      },
+      {
+        "name": "Track Application",
+        "goal": "Know exactly where things stand.",
+        "desc": "A vertical timeline with completed, current and pending steps — and named officers."
+      },
+      {
+        "name": "What I'm Owed",
+        "goal": "Discover schemes you qualify for.",
+        "desc": "Profile-based scheme cards with transparent 'why you qualify' reasons."
+      },
+      {
+        "name": "Family Proxy",
+        "goal": "Do it for someone you care for.",
+        "desc": "A persistent ‘helping Sunita’ banner keeps every action in the right context."
+      }
+    ],
+    "hrefs": [
+      "/prototype/onboarding/",
+      "/prototype/moment/?id=newBaby",
+      "/prototype/apply/?id=cert_birth",
+      "/prototype/status/?id=app_birth",
+      "/prototype/explore/?tab=forYou",
+      "/prototype/me/"
+    ]
+  },
+  "lenses": {
+    "heading": "Citizens don't think in departments. They think in moments, needs and entitlements.",
+    "caption": "Every service in Saathi is reachable through three lenses that meet at one person.",
+    "items": [
+      {
+        "title": "Moments",
+        "desc": "Life events — a birth, a job, a move, a loss."
+      },
+      {
+        "title": "Needs",
+        "desc": "What to do right now — a document, a payment, a proof."
+      },
+      {
+        "title": "Entitlements",
+        "desc": "What you're owed — schemes, pensions, subsidies."
+      }
+    ],
+    "center": "Citizen"
+  },
+  "multilingual": {
+    "heading": "India speaks 22 languages. Saathi listens in your own.",
+    "tiersLabel": "Three levels of going local",
+    "tiers": [
+      {
+        "title": "Translation",
+        "desc": "The same words, rendered in a new script."
+      },
+      {
+        "title": "Localization",
+        "desc": "Local norms too — dates, currency, names, number formats."
+      },
+      {
+        "title": "Transcreation",
+        "desc": "Rebuilt for the language. Designed in Hindi first, then ported."
+      }
+    ],
+    "compareAnnotations": [
+      "Per-script line-height keeps Devanagari and Tamil legible.",
+      "Names render in the reader's own script.",
+      "The whole UI swaps in 200ms — no reload."
+    ],
+    "note": "Every screen, the assistant, the department consoles and this case study are available in 23 languages — English and all 22 of the Eighth Schedule. Hindi, Bengali and Tamil were written first, alongside English; the other 19 are machine-assisted and marked for native-speaker review."
+  },
+  "personas": {
+    "heading": "Four people. Four very different needs.",
+    "items": [
+      {
+        "name": "Rakesh Verma",
+        "tag": "34 · Tier-2 · Kanpur",
+        "snapshot": "Shopkeeper. Smartphone-confident, but burned by fake-portal scams.",
+        "day": "Wants a birth certificate for his newborn without taking a day off or paying an agent.",
+        "quote": "If it looks official, I still double-check. Twice.",
+        "needs": [
+          "Trust signals he can verify",
+          "Hindi-first interface",
+          "Clear status, no jargon"
+        ]
+      },
+      {
+        "name": "Sunita Devi",
+        "tag": "29 · Rural · Bihar",
+        "snapshot": "Farmer. Low literacy, shares one phone with the family.",
+        "day": "Wants to claim a maternity benefit she heard about but can't read the form.",
+        "quote": "I can speak it. I can't always read it.",
+        "needs": [
+          "Voice input and read-aloud",
+          "Large taps, few steps",
+          "Works on a weak signal"
+        ]
+      },
+      {
+        "name": "Vikram Singh",
+        "tag": "68 · Senior · Chennai",
+        "snapshot": "Retired teacher. Patient, careful, prefers Tamil.",
+        "day": "Wants his pension status without calling his son every time.",
+        "quote": "Don't hurry me. Just tell me clearly.",
+        "needs": [
+          "Larger text and slow mode",
+          "Audio labels",
+          "Tamil throughout"
+        ]
+      },
+      {
+        "name": "Ananya Sharma",
+        "tag": "26 · Urban · Bengaluru",
+        "snapshot": "Analyst. Fluent in English, zero patience for friction.",
+        "day": "Wants to renew a document on her commute, in two minutes.",
+        "quote": "If it takes more than the train ride, I'll abandon it.",
+        "needs": [
+          "Speed and keyboard flow",
+          "Receipts she can save",
+          "No hand-holding"
+        ]
+      }
+    ],
+    "tableTitle": "How each person uses Saathi",
+    "tableCols": [
+      "Persona",
+      "Entry point",
+      "Key need",
+      "Voice"
+    ],
+    "tableRows": [
+      [
+        "Rakesh",
+        "Moments",
+        "Verifiable trust",
+        "Sometimes"
+      ],
+      [
+        "Sunita",
+        "Voice",
+        "Read-aloud forms",
+        "Always"
+      ],
+      [
+        "Vikram",
+        "Entitlements",
+        "Slow, clear, Tamil",
+        "Often"
+      ],
+      [
+        "Ananya",
+        "Search",
+        "Speed",
+        "Rarely"
+      ]
+    ]
+  },
+  "principles": {
+    "heading": "Ten rules the design follows.",
+    "items": [
+      {
+        "title": "Lives, not departments",
+        "desc": "Organise around life moments, not government silos."
+      },
+      {
+        "title": "Vernacular-first",
+        "desc": "Designed in Hindi and Tamil first, then ported to English."
+      },
+      {
+        "title": "Trust in 5 seconds",
+        "desc": "Verification, .gov.in signals and calm authority, up front."
+      },
+      {
+        "title": "Status is sacred",
+        "desc": "Always show where a thing is, who has it, and by when."
+      },
+      {
+        "title": "Proxy is normal",
+        "desc": "Helping a parent or child is a first-class action, not a hack."
+      },
+      {
+        "title": "Voice is first-class",
+        "desc": "Every field can be spoken, not typed."
+      },
+      {
+        "title": "Receipts everywhere",
+        "desc": "Every action ends with proof you can keep."
+      },
+      {
+        "title": "Density is the enemy",
+        "desc": "Few choices per screen. Space is a feature."
+      },
+      {
+        "title": "Inclusive by default",
+        "desc": "Built for the lowest-literacy, lowest-bandwidth user first."
+      },
+      {
+        "title": "Calm authority",
+        "desc": "Official, never cold. Reassuring, never childish."
+      }
+    ]
+  },
+  "problem": {
+    "heading": "India runs on hundreds of disconnected government apps and portals.",
+    "body": [
+      "A citizen who wants to register a birth, claim a pension, or check a land record doesn't deal with one government. They deal with dozens — each with its own app, its own login, its own language, and its own idea of how a form should work.",
+      "Services exist, but finding the real one — not a lookalike, not a middleman — takes confidence, data, and patience that the people who need help most often don't have. The maze itself is the barrier.",
+      "Saathi asks a simpler question: what if there were just one door?"
+    ],
+    "appsLabel": "A few of the apps a citizen is expected to juggle",
+    "apps": [
+      "UMANG",
+      "DigiLocker",
+      "mAadhaar",
+      "mParivahan",
+      "e-Shram",
+      "DigiYatra",
+      "Ayushman",
+      "EPFO",
+      "NSP",
+      "Bhulekh",
+      "PFMS",
+      "Income Tax"
+    ],
+    "quote": "मुझे पता है कि सब online है, but मुझे ये नहीं पता कि कौन सा online असली है.",
+    "quoteTranslation": "I know everything's online — I just don't know which 'online' is the real one.",
+    "quoteAttr": "Rakesh, 34 — Kanpur"
+  },
+  "reflection": {
+    "heading": "What I'd do next.",
+    "body": [
+      "Scoped out for now: real Aadhaar and payments, live speech recognition in every language, and an offline-first data layer.",
+      "Next, I'd pressure-test the voice flows with low-literacy users, put every language in front of native reviewers — the 19 machine-assisted ones first."
+    ],
+    "aboutHeading": "About Krishom",
+    "aboutBody": "I'm a product designer working on civic and consumer products. Saathi is a self-initiated exploration of what dignified, inclusive government software could feel like.",
+    "contact": "Get in touch",
+    "otherWork": "Other case studies",
+    "others": [
+      {
+        "name": "Knot",
+        "desc": "A wedding-planning companion."
+      },
+      {
+        "name": "Atelier",
+        "desc": "A studio portfolio system."
+      }
+    ]
+  },
+  "research": {
+    "heading": "I talked to citizens across India.",
+    "body": "Over several weeks I spoke with people in cities, small towns and villages about the last time they dealt with a government service. The same three frictions surfaced again and again: language, trust, and simply not knowing where to start.",
+    "personas": [
+      {
+        "name": "Rakesh",
+        "tag": "Tier-2 city",
+        "line": "Has a smartphone and data, but can't tell the real portal from a lookalike."
+      },
+      {
+        "name": "Sunita",
+        "tag": "Rural",
+        "line": "Relies on a CSC operator for everything — and pays for it."
+      },
+      {
+        "name": "Vikram",
+        "tag": "Senior",
+        "line": "Wants it read aloud, in Tamil, without rushing."
+      },
+      {
+        "name": "Ananya",
+        "tag": "Urban",
+        "line": "Fast, fluent, English — wants it done on the train."
+      }
+    ]
+  },
+  "umang": {
+    "heading": "India already built one app. Here's what Saathi does differently.",
+    "intro": "UMANG is the government's own unified app — thousands of services in one place. It proved aggregation is possible. Saathi starts where UMANG stops: not 'how many services fit', but 'how does it feel for a real person to use one'.",
+    "umangLabel": "UMANG",
+    "saathiLabel": "Saathi",
+    "rows": [
+      {
+        "aspect": "Organising idea",
+        "umang": "A directory of departments and services — you must already know the exact name.",
+        "saathi": "Life moments, needs and entitlements — you start from your situation, not a department."
+      },
+      {
+        "aspect": "Language",
+        "umang": "13 languages, but most forms still fall back to English.",
+        "saathi": "Vernacular-first, voice on every field, and the whole UI swaps script in 200ms."
+      },
+      {
+        "aspect": "Discovery",
+        "umang": "You search — nothing tells you what you're actually owed.",
+        "saathi": "Profile-based scheme cards with a transparent 'why you qualify'."
+      },
+      {
+        "aspect": "Trust & calm",
+        "umang": "Official, but visually dense and utilitarian.",
+        "saathi": "Calm authority — verification and status surfaced in the first five seconds."
+      },
+      {
+        "aspect": "Help & status",
+        "umang": "Largely on your own once you submit.",
+        "saathi": "A status timeline with named officers, and family-proxy as a first-class action."
+      },
+      {
+        "aspect": "Accessibility",
+        "umang": "Standard forms; little for low-literacy or low-vision users.",
+        "saathi": "Slow mode, larger text, read-aloud and offline-first — on by default."
+      }
+    ],
+    "note": "UMANG is a real, large-scale product serving millions. This comparison is about design philosophy — not a critique of its engineering or reach."
+  },
+  "cs": {
+    "title": "Designing one door to every government service",
+    "lede": "A UI/UX case study on Saathi — a multilingual, voice-first citizen app with an assistant that asks before it acts, designed for Viksit Bharat @2047.",
+    "meta": [
+      {
+        "label": "Role",
+        "value": "Product designer — research, UX, UI, motion, prototype"
+      },
+      {
+        "label": "Type",
+        "value": "Self-initiated design concept"
+      },
+      {
+        "label": "Languages",
+        "value": "23 languages — all 22 of the Eighth Schedule, plus English"
+      },
+      {
+        "label": "Deliverables",
+        "value": "Research, design system, working prototype, website"
+      }
+    ],
+    "openPrototype": "Open the prototype",
+    "contents": "Contents",
+    "chapters": {
+      "overview": "Overview",
+      "problem": "The problem",
+      "umang": "Saathi and UMANG",
+      "research": "Research",
+      "personas": "Personas",
+      "frame": "The frame",
+      "principles": "Principles",
+      "structure": "Structure",
+      "ai": "Designing Saathi AI",
+      "languages": "Languages",
+      "accessibility": "Accessibility",
+      "system": "Design system",
+      "flows": "Key flows",
+      "success": "Measuring success",
+      "reflection": "Reflection"
+    },
+    "overview": {
+      "heading": "One door, not hundreds.",
+      "body": [
+        "India has built the rails of a digital state — identity, payments, documents and language technology at a scale no other country has attempted. What it doesn't yet have is a front door that feels made for the person standing in front of it.",
+        "Saathi reorganises government services around what happens in a citizen's life, speaks their language, and adds an assistant that can prepare an application, show its plan, ask for consent and hand back proof."
+      ],
+      "outcomesTitle": "What was designed",
+      "outcomes": [
+        {
+          "value": "42",
+          "label": "government processes modelled on their real portals"
+        },
+        {
+          "value": "23",
+          "label": "languages — English and every one of the 22 in the Eighth Schedule"
+        },
+        {
+          "value": "10",
+          "label": "onboarding steps, including consent under the DPDP Act"
+        },
+        {
+          "value": "1",
+          "label": "assistant that never submits without your yes"
+        }
+      ]
+    },
+    "ai": {
+      "heading": "An assistant that acts — and asks first.",
+      "body": [
+        "Most government chatbots answer questions. The people we designed for don't need more answers; they need the thing done. So Saathi AI is designed as an agent: it plans, uses official services and produces an outcome.",
+        "Acting on someone's behalf with their identity and money raises the bar for trust. Every pattern below exists to keep the citizen in control."
+      ],
+      "patternsTitle": "Four patterns",
+      "patterns": [
+        {
+          "title": "Plan card",
+          "body": "Before doing anything, Saathi lists its steps and the official service behind each one. The plan updates live as steps complete."
+        },
+        {
+          "title": "Tool steps",
+          "body": "Each action — fetching a record from DigiLocker, checking eligibility — appears as a short, verifiable line with its source."
+        },
+        {
+          "title": "Consent gate",
+          "body": "Nothing is submitted, paid or shared until the citizen approves a card that names the data, the recipient and how long access lasts."
+        },
+        {
+          "title": "Outcome",
+          "body": "Every mission ends in something real: an application in Track, a paid receipt, a switched language — with a reference number."
+        }
+      ],
+      "failuresTitle": "When it can't help",
+      "failures": [
+        {
+          "title": "Didn't understand",
+          "body": "Offer three likely requests in plain words, and the option to speak to a person."
+        },
+        {
+          "title": "Not eligible",
+          "body": "Say so plainly, explain which rule applies, and suggest what the person may qualify for instead."
+        },
+        {
+          "title": "Service unavailable",
+          "body": "Keep the prepared application as a draft and say when to retry. Never lose what someone has entered."
+        },
+        {
+          "title": "Needs a human",
+          "body": "Hand over to the nearest Common Service Centre or a helpline, with the context already filled in."
+        }
+      ],
+      "principlesTitle": "AI principles",
+      "principles": [
+        "Official sources only, always named",
+        "Asks before it acts on identity, money or data",
+        "Shows its reasoning for every eligibility claim",
+        "A person is always one tap away",
+        "Scripted and reviewable — no hidden prompts deciding outcomes"
+      ],
+      "note": "In this prototype the assistant is pre-scripted, not a live language model — so every answer it gives can be reviewed before it reaches a citizen."
+    },
+    "structure": {
+      "heading": "Five tabs. The assistant in the middle.",
+      "body": "Version one had an Apply tab — but a bare Apply tab asks “apply for what?”. The centre of Saathi 2.0 is the assistant: tell it what you need, in any words, and it routes you. Every one of the 42 flows is still reachable from Explore, detail screens and Home.",
+      "tabs": [
+        {
+          "name": "Home",
+          "desc": "Identity, what needs attention, your applications and schemes for you."
+        },
+        {
+          "name": "Explore",
+          "desc": "Life moments, services and schemes — plus search in any language."
+        },
+        {
+          "name": "Saathi",
+          "desc": "The assistant. Ask, see the plan, approve, get proof."
+        },
+        {
+          "name": "Track",
+          "desc": "Every application with stages, named officers and dates."
+        },
+        {
+          "name": "Me",
+          "desc": "Document wallet, family help, privacy dashboard and preferences."
+        }
+      ]
+    },
+    "languages": {
+      "tryIt": "Switch the language of this page"
+    },
+    "accessibility": {
+      "contrastTitle": "Every text colour, tested",
+      "contrastBody": "Contrast ratios are computed from the design tokens in code and checked in automated tests against WCAG 2.1 AA.",
+      "pairLabel": "Pairing",
+      "ratioLabel": "Ratio",
+      "resultLabel": "Result"
+    },
+    "system": {
+      "heading": "Bharat Precision.",
+      "body": "A design system calm enough to trust with a pension and precise enough to feel world-class — on a pure white base, with colour reserved for meaning.",
+      "colourTitle": "Colour with a job",
+      "colours": [
+        {
+          "name": "Chakra Navy",
+          "hex": "#1F43B8",
+          "use": "Actions, links, focus"
+        },
+        {
+          "name": "India Green",
+          "hex": "#12803C",
+          "use": "Verified, approved, done"
+        },
+        {
+          "name": "Saffron",
+          "hex": "#FF8A1F",
+          "use": "Attention and highlights, never body text"
+        },
+        {
+          "name": "Ink",
+          "hex": "#0B0D14",
+          "use": "Text"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF",
+          "use": "Every surface"
+        }
+      ],
+      "typeTitle": "Type across scripts",
+      "typeBody": "Geist for Latin, Anek for Indic headlines (by Ek Type, an Indian foundry) and Noto Sans for Indic body text at a 1.8 line height, as UX4G recommends.",
+      "imageryTitle": "Imagery made in code",
+      "imageryBody": "No stock photos and no maps. Kolam linework for texture, guilloche security print for anything official.",
+      "motionTitle": "Motion with a reason",
+      "motionBody": "Interface motion stays under 300 milliseconds and can always be interrupted. Storytelling motion breathes. Everything becomes a gentle fade for people who prefer reduced motion.",
+      "link": "Explore the full design system"
+    },
+    "flowsLinks": {
+      "open": "Open this flow"
+    },
+    "success": {
+      "heading": "How we'd know it works.",
+      "body": "These are design targets for a pilot, not results. They are here so the design can be judged against something measurable.",
+      "metricsTitle": "Design targets",
+      "metrics": [
+        {
+          "value": "5 min",
+          "label": "to apply for a birth certificate, from a first-time user's first tap"
+        },
+        {
+          "value": "90%",
+          "label": "of test participants complete a key flow without help"
+        },
+        {
+          "value": "0",
+          "label": "applications submitted or payments made without explicit consent"
+        },
+        {
+          "value": "1 in 3",
+          "label": "form fields filled by voice among low-literacy participants"
+        }
+      ],
+      "planTitle": "Validation plan",
+      "plan": [
+        {
+          "title": "Usability testing in three states",
+          "body": "Moderated sessions with each persona group, in their language, on their own phones."
+        },
+        {
+          "title": "Native-language review",
+          "body": "Every language reviewed by native speakers before any pilot — the 19 machine-assisted ones first."
+        },
+        {
+          "title": "Independent accessibility audit",
+          "body": "Screen reader, keyboard, low vision and cognitive load, against WCAG 2.1 AA and GIGW 3.0."
+        },
+        {
+          "title": "Assistant red-teaming",
+          "body": "Try to make Saathi AI submit, pay or share without consent — and fix every path found."
+        }
+      ]
+    }
+  }
+}

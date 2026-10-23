@@ -1,0 +1,1250 @@
+{
+  "brand": {
+    "name": "Saathi",
+    "tagline": "Your companion through citizen life"
+  },
+  "language": {
+    "select": "Choose your language",
+    "current": "English",
+    "changed": "Language changed",
+    "search": "Search languages",
+    "clear": "Clear",
+    "suggested": "Suggested for Uttar Pradesh",
+    "all": "Available now · {count}",
+    "noMatch": "No language matches that",
+    "reviewTag": "Preview",
+    "reviewNote": "English, हिन्दी, বাংলা and தமிழ் are fully authored. The other 19 languages of the Eighth Schedule are machine-assisted translations awaiting native-speaker review."
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore",
+    "apply": "Apply",
+    "track": "Track",
+    "me": "Me",
+    "saathi": "Saathi"
+  },
+  "common": {
+    "continue": "Continue",
+    "done": "Done",
+    "back": "Back",
+    "cancel": "Cancel",
+    "next": "Next",
+    "skip": "Skip",
+    "close": "Close",
+    "submit": "Submit",
+    "save": "Save",
+    "edit": "Edit",
+    "search": "Search",
+    "retry": "Try again",
+    "yes": "Yes",
+    "no": "No",
+    "getStarted": "Get started",
+    "seeAll": "See all",
+    "comingSoon": "Coming in a later phase"
+  },
+  "a11y": {
+    "languageButton": "Change language",
+    "closeSheet": "Close",
+    "openSheet": "Open",
+    "listening": "Listening",
+    "startVoice": "Start voice input",
+    "stopVoice": "Stop voice input",
+    "loading": "Loading",
+    "scrollForMore": "Scroll for more",
+    "readAloud": "Read aloud"
+  },
+  "status": {
+    "submitted": "Submitted",
+    "inProgress": "In progress",
+    "approved": "Approved",
+    "ready": "Ready",
+    "pending": "Pending",
+    "actionNeeded": "Action needed",
+    "rejected": "Not approved"
+  },
+  "home": {
+    "verified": "Verified",
+    "quickActions": "Quick actions",
+    "actionDocuments": "Documents",
+    "actionTrack": "Track",
+    "actionPay": "Pay bills",
+    "actionHelp": "Get help",
+    "yourApplications": "Your applications",
+    "suggested": "Suggested for you",
+    "whatsNew": "What's new",
+    "news1Title": "DigiLocker now in 12 languages",
+    "news1Body": "Your documents, in your own script.",
+    "news2Title": "Pension payouts are faster",
+    "news2Body": "Direct to your account within 48 hours.",
+    "greetingMorning": "Good morning, {name}",
+    "greetingAfternoon": "Good afternoon, {name}",
+    "greetingEvening": "Good evening, {name}",
+    "askPlaceholder": "Ask Saathi",
+    "askVoice": "Speak to Saathi",
+    "askSuggestions": [
+      "Get my daughter's birth certificate",
+      "Which schemes am I eligible for?",
+      "Pay my property tax",
+      "Where is my Ayushman card?",
+      "Submit my father's life certificate"
+    ],
+    "idLabel": "Saathi ID",
+    "idShowQr": "Show QR",
+    "idHideQr": "Hide QR",
+    "sample": "Sample",
+    "qrTitle": "Show this at any office",
+    "qrBody": "A one-time code that proves it's you — no photocopies.",
+    "qrRefresh": "Refreshes in {time}",
+    "needsAttention": "Needs attention",
+    "quick": {
+      "apply": "Apply",
+      "pay": "Pay",
+      "documents": "Documents",
+      "help": "Help"
+    },
+    "appNext": "Now: {step}",
+    "appDone": "Ready — nothing left to do",
+    "forYou": "For you",
+    "forYouSub": "Schemes that match your profile",
+    "forYouBadge": "Match",
+    "savings": "Savings",
+    "trust": {
+      "encrypted": "End-to-end encrypted",
+      "official": "Official sources only",
+      "control": "You control your data",
+      "privacy": "Open privacy dashboard"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "markAll": "Mark all as read",
+      "empty": "You're all caught up"
+    }
+  },
+  "explore": {
+    "tabMoments": "Life moments",
+    "tabServices": "Services",
+    "tabForYou": "For you",
+    "momentsSubtitle": "Start from what's happening in your life.",
+    "servicesSubtitle": "Every department, organised by what you need.",
+    "forYouSubtitle": "Schemes you may be eligible for, best matches first.",
+    "eligibility": "Eligibility",
+    "whyQualify": "Why you may qualify",
+    "benefit": "Benefit",
+    "department": "Department",
+    "apply": "Apply now",
+    "relatedServices": "Related services",
+    "relatedSchemes": "Schemes you may get",
+    "commonTasks": "Common tasks",
+    "momentDetailIntro": "Everything this moment usually involves, gathered in one place — so you don't have to know which department does what.",
+    "noSchemes": "No schemes linked yet.",
+    "searchPlaceholder": "Search services, schemes, documents",
+    "clear": "Clear",
+    "cancel": "Cancel",
+    "popularTitle": "Popular right now",
+    "popular": [
+      "Birth certificate",
+      "PM-KISAN",
+      "Property tax",
+      "Driving licence",
+      "Scholarship",
+      "Ayushman"
+    ],
+    "askIdle": "Not sure what it's called?",
+    "askIdleSub": "Just tell Saathi what you need.",
+    "noResults": "No matches for “{q}”",
+    "askAbout": "Ask Saathi",
+    "kinds": {
+      "task": "Things to do",
+      "scheme": "Schemes",
+      "service": "Services",
+      "moment": "Life moments"
+    },
+    "momentCount": "{services} services · {schemes, plural, =0 {no schemes} one {# scheme} other {# schemes}}",
+    "momentEyebrow": "Life moment",
+    "serviceEyebrow": "Service",
+    "checklistTitle": "Your checklist",
+    "checklistSub": "In the order most people need them",
+    "askMoment": "Let Saathi handle all of this",
+    "askMomentSub": "It prepares each application and asks before it submits anything.",
+    "tasksTitle": "What you can do",
+    "forYouShort": "For you",
+    "officialScheme": "Official scheme",
+    "matchesYou": "Matches your profile",
+    "savingsAccount": "Savings account",
+    "basedOnProfile": "Based on what you told Saathi",
+    "checkCriteria": "Check these criteria — Saathi verifies them when you apply",
+    "detailsTitle": "At a glance",
+    "portal": "Portal",
+    "time": "Processing time",
+    "fee": "Fee",
+    "documents": "Documents",
+    "docsCount": "{count, plural, =0 {None needed} one {# document} other {# documents}}",
+    "howItWorks": "How it works",
+    "how": [
+      {
+        "title": "Apply in Saathi",
+        "body": "Details fill from your profile and DigiLocker. You review everything."
+      },
+      {
+        "title": "Department verifies",
+        "body": "A named officer checks your application — you can see who and when."
+      },
+      {
+        "title": "Benefit reaches you",
+        "body": "Paid directly to your Aadhaar-linked bank account."
+      }
+    ],
+    "checkAll": "Check all {count} schemes for me",
+    "checkAllSub": "See what you qualify for, what might apply, and why"
+  },
+  "voice": {
+    "prompt": "Speak. I'm listening.",
+    "heard": "Did you say this?",
+    "confirm": "Yes, fill it in",
+    "tryCommands": "Try saying",
+    "cmdTrack": "Show my applications",
+    "cmdApply": "Apply for a birth certificate",
+    "cmdLang": "Switch language",
+    "sayLanguage": "Say a language",
+    "opening": "Opening {screen}",
+    "sayLanguagePrompt": "Say the language you'd like",
+    "cardTitle": "Fill this step by speaking",
+    "cardSub": "Say it the way you'd tell a person",
+    "listeningTitle": "Listening…",
+    "listeningHint": "Say the details in your own words, in any language.",
+    "tapToFinish": "I'm done",
+    "heardTitle": "Here's what I understood",
+    "fillN": "Fill {count, plural, one {# field} other {# fields}}"
+  },
+  "apply": {
+    "start": "Start application",
+    "youllNeed": "What you'll need",
+    "timeline": "Estimated time",
+    "fillByVoice": "Fill by voice",
+    "step": "Step {n} of {total}",
+    "uploadTitle": "Upload a document",
+    "uploadHint": "A clear photo or PDF of a supporting document.",
+    "uploaded": "Document added",
+    "chooseFile": "Choose file",
+    "reviewTitle": "Review & submit",
+    "submit": "Submit application",
+    "receiptTitle": "Application submitted",
+    "receiptBody": "We'll keep you updated. Track it anytime.",
+    "refNumber": "Reference number",
+    "downloadPdf": "Download PDF",
+    "share": "Share",
+    "saved": "Saved",
+    "trackApplication": "Track application",
+    "backHome": "Back to home",
+    "portal": "Portal",
+    "department": "Department",
+    "amountDue": "Amount payable",
+    "fee": "Fee",
+    "selectPrompt": "Select",
+    "documentsTitle": "Documents",
+    "documentsHint": "Saathi can fetch these straight from your DigiLocker — already verified by the issuer.",
+    "submitApply": "Submit application",
+    "submitPay": "Pay {amount}",
+    "submitRenew": "Submit renewal",
+    "submitRegister": "Submit registration",
+    "submitDownload": "Get document",
+    "submitGrievance": "Lodge complaint",
+    "receiptApply": "Application submitted",
+    "receiptPay": "Payment successful",
+    "receiptRenew": "Renewal submitted",
+    "receiptRegister": "Registration submitted",
+    "receiptDownload": "Document ready",
+    "receiptGrievance": "Complaint registered",
+    "refApply": "Reference number",
+    "refPay": "Transaction ID",
+    "refDownload": "Acknowledgement no.",
+    "refGrievance": "Complaint ID",
+    "paidLine": "{amount} paid",
+    "free": "Free",
+    "kinds": {
+      "apply": "Application",
+      "pay": "Payment",
+      "renew": "Renewal",
+      "register": "Registration",
+      "download": "Download",
+      "grievance": "Complaint"
+    },
+    "submittedTo": "Goes directly to {portal}",
+    "stepsLabel": "Steps",
+    "stepsCount": "{count, plural, one {# step} other {# steps}}",
+    "prefillNote": "Saathi fills in what it already knows. Nothing is sent until you review it and submit.",
+    "startPay": "Continue to payment",
+    "backToReview": "Back to review",
+    "fetchAll": "Fetch all from DigiLocker",
+    "fetching": "Fetching…",
+    "fromDigiLocker": "From DigiLocker · verified",
+    "uploadedManual": "Uploaded · will be checked by an officer",
+    "notAdded": "Not added yet",
+    "upload": "Upload",
+    "allAdded": "All documents added",
+    "reviewSub": "Check everything once. This goes to {portal} as you see it.",
+    "edit": "Edit",
+    "docsVerified": "{count, plural, one {# document verified} other {# documents verified}}",
+    "declaration": "I confirm these details are true and allow {department} to process this request.",
+    "upi": {
+      "title": "Confirm payment",
+      "payee": "Paying",
+      "verifiedPayee": "Verified government payee",
+      "from": "Pay from",
+      "pay": "Pay {amount}",
+      "waiting": "Approve in your UPI app…",
+      "success": "Payment approved",
+      "note": "Simulated — in real life you'd approve with your UPI PIN in your own bank app. Saathi never sees it."
+    },
+    "receipt": {
+      "dateTime": "Date & time",
+      "amountPaid": "Amount paid",
+      "copy": "Copy",
+      "copied": "Copied",
+      "verifyAt": "Verify on {portal}",
+      "sample": "Sample QR — for illustration",
+      "nextApply": "What happens next: a named officer reviews it, and you'll get an SMS at every stage. Track it any time.",
+      "nextPay": "What happens next: nothing — your dues are cleared and the receipt is saved in Track.",
+      "nextDownload": "What happens next: your document is ready to download, share or show from your wallet.",
+      "nextGrievance": "What happens next: your complaint is assigned to an officer, who must respond within 30 days."
+    },
+    "shareSheet": {
+      "title": "Share receipt",
+      "copyLink": "Copy link",
+      "message": "Message",
+      "email": "Email",
+      "pdf": "Save PDF",
+      "done": "Done",
+      "note": "Shared links show only the reference and status — never your personal details."
+    }
+  },
+  "track": {
+    "heading": "Your applications",
+    "empty": "Nothing here yet",
+    "emptySub": "Applications and payments you make appear here with live status.",
+    "submittedOn": "Submitted on {date}",
+    "timeline": "Progress",
+    "summary": "{active} in progress · {done} completed",
+    "filterAll": "All",
+    "filterActive": "In progress",
+    "filterDone": "Completed",
+    "emptyCta": "Find a service",
+    "stageOf": "Stage {n} of {total}",
+    "complete": "Complete",
+    "helpTitle": "Taking longer than it should?",
+    "helpDone": "Need something else?",
+    "askWhy": "Ask Saathi what's happening",
+    "askWhySub": "Plain-language answer, and what you can do",
+    "grievance": "Raise a grievance",
+    "grievanceSub": "Filed on CPGRAMS · response within 30 days",
+    "officer": {
+      "title": {
+        "approved": "Approved",
+        "infoRequested": "The office needs something from you",
+        "rejected": "Not approved",
+        "issued": "Issued to your DigiLocker",
+        "citizenResponded": "Sent — back with the officer"
+      },
+      "body": {
+        "approved": "Your application was approved. The record will be issued shortly.",
+        "issued": "The signed record is in your DigiLocker and wallet.",
+        "rejected": "",
+        "infoRequested": "",
+        "citizenResponded": ""
+      },
+      "respondedBody": "You added the document from DigiLocker. {officer} at {office} will pick it up — the time limit starts again.",
+      "respond": "Add it from DigiLocker",
+      "respondHint": "Fetched straight from the issuer — nothing to scan or upload.",
+      "responseNote": "Added from DigiLocker",
+      "askWhy": "Ask Saathi why",
+      "appeal": "Appeal",
+      "openRecord": "Open in wallet"
+    }
+  },
+  "me": {
+    "heading": "My Saathi",
+    "documents": "Wallet",
+    "family": "Family",
+    "preferences": "Preferences",
+    "about": "About Saathi",
+    "aboutBody": "Saathi is a concept — one calm, vernacular-first home for India's citizen services. A UI/UX prototype by Krishom.",
+    "verified": "Verified",
+    "manageFor": "Manage for them",
+    "managing": "Helping {name}",
+    "exitProxy": "Exit",
+    "sendRequest": "Send a request",
+    "smsTo": "To {name} · +91 ••••• ••210",
+    "smsBody": "Namaste {name}, I've started a Saathi request for you. Please confirm with the OTP sent to your phone. — Rakesh",
+    "smsSend": "Send SMS",
+    "smsSent": "Request sent",
+    "language": "Language",
+    "notifications": "Notifications",
+    "notificationsDesc": "Updates on your applications",
+    "accessibility": "Accessibility",
+    "reset": "Reset demo",
+    "resetDesc": "This clears your profile, applications and preferences, and starts again from the splash screen.",
+    "aadhaarVerified": "Aadhaar verified",
+    "walletSub": "Official documents from DigiLocker — tap one to view or share.",
+    "pending": "Pending",
+    "validity": "Validity",
+    "shareSecurely": "Share securely",
+    "shareReady": "Ready to share",
+    "shareExpiry": "Expires in 10 minutes",
+    "shareMasked": "Shows only what the requester needs.",
+    "pendingNote": "Available to share once verification is complete.",
+    "familySub": "Act on behalf of someone you care for — every action is clearly marked.",
+    "manage": "Help",
+    "smsSentSub": "{name} gets an SMS to approve with a one-time code.",
+    "smsWhy": "They stay in control: nothing happens for them until they approve.",
+    "done": "Done",
+    "privacyTitle": "Privacy & consent",
+    "privacySub": "{count, plural, one {# active consent} other {# active consents}} · see every access",
+    "help": "Help & support",
+    "csc": "Nearest Common Service Centre",
+    "cscSub": "In-person help, free",
+    "cscList": [
+      {
+        "name": "CSC Civil Lines",
+        "address": "Mall Road, Kanpur Nagar",
+        "distance": "0.8 km"
+      },
+      {
+        "name": "CSC Swaroop Nagar",
+        "address": "Near Moti Jheel, Kanpur",
+        "distance": "2.1 km"
+      },
+      {
+        "name": "CSC Kakadeo",
+        "address": "Kakadeo Crossing, Kanpur",
+        "distance": "3.4 km"
+      }
+    ],
+    "helpline": "Talk to a person",
+    "helplineSub": "Toll-free, in your language",
+    "helplineHours": "8 AM – 10 PM, all days · Hindi, English and 10 more languages",
+    "helplineSample": "Sample number for the prototype.",
+    "resetConfirmTitle": "Reset the prototype?",
+    "resetConfirm": "Reset",
+    "cancel": "Cancel",
+    "flip": "Flip card",
+    "flipBack": "Flip back",
+    "tapToFlip": "Tap the card to flip it",
+    "close": "Close",
+    "frontSide": "Front of card",
+    "backSide": "Back of card",
+    "scanToVerify": "Sample QR",
+    "signedBy": "Digitally signed · {issuer}",
+    "share": "Share"
+  },
+  "onboarding": {
+    "splash": "Your companion through citizen life",
+    "language": {
+      "title": "Choose your language",
+      "subtitle": "23 languages — every one in the Eighth Schedule, plus English. Change it anytime."
+    },
+    "welcome": {
+      "title": "One door to every government service",
+      "body": "Schemes, documents, payments and applications — in your language, by voice or touch.",
+      "points": [
+        {
+          "title": "One place, every department",
+          "body": "Stop juggling apps. Start from what's happening in your life."
+        },
+        {
+          "title": "In your language",
+          "body": "Every screen, every form — switch any time."
+        },
+        {
+          "title": "Speak instead of typing",
+          "body": "Tell Saathi what you need. It fills the forms for you."
+        }
+      ],
+      "cta": "Get started"
+    },
+    "aadhaar": {
+      "title": "Let's verify it's you",
+      "subtitle": "Enter your 12-digit Aadhaar number. We'll send a one-time code to your linked mobile.",
+      "helper": "Used only to verify your identity with UIDAI. Saathi never stores your full Aadhaar number.",
+      "trust": "Verified with UIDAI · encrypted end to end",
+      "cta": "Send OTP",
+      "invalid": "Enter all 12 digits to continue.",
+      "digilocker": "Use DigiLocker instead",
+      "ready": "Looks good."
+    },
+    "otp": {
+      "title": "Enter the code",
+      "subtitle": "We sent a 6-digit code to {phone}.",
+      "resend": "Resend code",
+      "resendIn": "Resend in {seconds}s",
+      "change": "Change number",
+      "cta": "Verify",
+      "verified": "Verified — continuing…",
+      "demoHint": "Prototype: any 6 digits will work."
+    },
+    "profile": {
+      "title": "A few details",
+      "subtitle": "So Saathi can personalise things for you.",
+      "nameLabel": "Full name",
+      "namePlaceholder": "Your name",
+      "genderLabel": "Gender",
+      "genderMale": "Male",
+      "genderFemale": "Female",
+      "genderOther": "Other",
+      "cta": "Continue",
+      "fetched": "Fetched from Aadhaar (UIDAI)",
+      "districtLabel": "District"
+    },
+    "context": {
+      "title": "What's happening in your life?",
+      "subtitle": "Pick any that apply. This helps us show schemes you may be eligible for.",
+      "cta": "Continue",
+      "skip": "Skip for now",
+      "options": {
+        "newBaby": "A new baby",
+        "job": "Looking for work",
+        "marriage": "Getting married",
+        "home": "Buying a home",
+        "senior": "Senior citizen",
+        "student": "Student",
+        "farmer": "Farmer",
+        "business": "Small business"
+      },
+      "ctaCount": "Continue with {count}"
+    },
+    "accessibility": {
+      "title": "Make Saathi yours",
+      "subtitle": "Turn on what helps you. Change these anytime in settings.",
+      "cta": "Continue",
+      "options": {
+        "voiceHelp": {
+          "label": "Voice help",
+          "desc": "Fill forms by speaking"
+        },
+        "largeText": {
+          "label": "Larger text",
+          "desc": "Bigger, clearer type"
+        },
+        "slowMode": {
+          "label": "Slow mode",
+          "desc": "More time, simpler steps"
+        },
+        "audioLabels": {
+          "label": "Read aloud",
+          "desc": "Hear labels and buttons"
+        },
+        "highContrast": {
+          "label": "High contrast",
+          "desc": "Stronger colours"
+        }
+      },
+      "preview": "Preview",
+      "previewText": "Your birth certificate is ready to collect."
+    },
+    "done": {
+      "title": "You're all set",
+      "body": "Welcome, {name}. Whenever you need the government, Saathi is one tap — or one sentence — away.",
+      "cta": "Enter Saathi",
+      "summaryLanguage": "Language",
+      "summaryLife": "{count, plural, =0 {No life moments yet} one {# life moment} other {# life moments}}",
+      "summaryA11y": "{count, plural, =0 {Standard settings} one {# accessibility aid} other {# accessibility aids}}"
+    },
+    "stepOf": "Step {n} of {total}",
+    "consent": {
+      "title": "Share details with Saathi?",
+      "subtitle": "Saathi can fetch these from your Aadhaar record so you never retype them.",
+      "from": "From",
+      "fromName": "UIDAI · DigiLocker",
+      "to": "To",
+      "toName": "Saathi",
+      "itemsLabel": "Choose what to share",
+      "items": {
+        "name": "Full name",
+        "dob": "Date of birth",
+        "address": "Address",
+        "photo": "Photograph"
+      },
+      "purpose": "Purpose",
+      "purposeValue": "Pre-fill your applications",
+      "validity": "Valid for",
+      "validityValue": "1 year · revoke anytime",
+      "legal": "You can see every use of this data and withdraw consent in Privacy, as the DPDP Act, 2023 requires.",
+      "allow": "Allow",
+      "deny": "Don't allow",
+      "deniedTitle": "That's completely fine",
+      "deniedBody": "Saathi works without it — you'll just type details yourself.",
+      "deniedDetail": "Nothing is fetched from UIDAI or DigiLocker. You can allow sharing later, one field at a time, from Me → Privacy.",
+      "continueWithout": "Continue without sharing",
+      "reconsider": "Review sharing again"
+    }
+  },
+  "stage": {
+    "badge": "Interactive prototype",
+    "pitch": "One door to every government service. Everything here works — tap through real flows in 23 languages.",
+    "tryThis": "Try these flows",
+    "language": "Language",
+    "reset": "Reset demo",
+    "resetDone": "Demo reset",
+    "note": "A design concept. All data is sample data; DigiLocker, UPI and portal steps are simulated.",
+    "flows": {
+      "saathi": {
+        "title": "Ask Saathi AI",
+        "sub": "An assistant that does the work for you"
+      },
+      "birth": {
+        "title": "Birth certificate by voice",
+        "sub": "Speak the details, Saathi fills the form"
+      },
+      "tax": {
+        "title": "Pay property tax",
+        "sub": "Dues, UPI payment and a verifiable receipt"
+      },
+      "ayushman": {
+        "title": "Track an Ayushman card",
+        "sub": "Named officers, dates and next steps"
+      },
+      "proxy": {
+        "title": "Help your mother",
+        "sub": "Family proxy mode across the whole app"
+      },
+      "privacy": {
+        "title": "Privacy dashboard",
+        "sub": "See who used your data and revoke it"
+      },
+      "console": {
+        "title": "Open a department console",
+        "sub": "Decide on the citizen's case — watch the app update"
+      }
+    }
+  },
+  "privacy": {
+    "eyebrow": "Your data",
+    "title": "Privacy & consent",
+    "intro": "Nothing about you is shared without your permission. See who can use your data, who actually did — and switch it off any time.",
+    "activeConsents": "Active consents",
+    "accessesMonth": "Accesses this month",
+    "consentsTitle": "Who can use your data",
+    "consentsSub": "Switch off to revoke instantly.",
+    "purpose": "Purpose",
+    "validity": "Valid",
+    "revoked": "Revoked — access stopped",
+    "logTitle": "Who accessed it",
+    "logSub": "Every view is recorded with a reason.",
+    "download": "Download a copy of my data",
+    "downloadReady": "Ready · sent to your DigiLocker",
+    "reportMisuse": "Report misuse",
+    "legal": "Designed around the Digital Personal Data Protection Act, 2023 and consent-based sharing (DEPA)."
+  },
+  "agent": {
+    "title": "Saathi AI",
+    "subtitle": "Official sources · asks before it acts",
+    "greeting": "How can I help, {name}?",
+    "intro": "Ask in your own words. I can apply, pay, track and explain — and I always ask before I submit anything.",
+    "placeholder": "Ask Saathi anything",
+    "send": "Send",
+    "speak": "Speak",
+    "listening": "Listening…",
+    "stop": "Stop",
+    "newChat": "New",
+    "validity": "Valid",
+    "approved": "Approved",
+    "cancelled": "Cancelled — nothing was shared",
+    "edit": "Edit details",
+    "cancel": "Cancel",
+    "consentNote": "You can revoke this any time in Privacy.",
+    "ref": "Ref",
+    "open": "Open",
+    "trustLine": "Scripted demo · no live AI model · always asks before acting"
+  },
+  "challan": {
+    "back": "Back",
+    "title": "Traffic challans",
+    "heading": "Check your challans",
+    "intro": "See every challan on your vehicle with the camera evidence, pay the ones you accept, and contest the rest.",
+    "byVehicle": "Vehicle number",
+    "byLicence": "Licence number",
+    "vehicleLabel": "Vehicle registration number",
+    "licenceLabel": "Driving licence number",
+    "fromRc": "From your RC in DigiLocker · {model}",
+    "find": "Find challans",
+    "searching": "Searching eChallan records",
+    "pendingCount": "{count, plural, one {# challan pending} other {# challans pending}}",
+    "allClear": "No pending challans",
+    "official": "Official record",
+    "evidence": "View evidence",
+    "viewEvidence": "View evidence & details",
+    "paid": "Paid",
+    "inCourt": "In Virtual Court",
+    "select": "Pay",
+    "challanNo": "Challan no.",
+    "recordedBy": "Recorded by",
+    "contest": "Contest this challan",
+    "payAmount": "Pay {amount} · {count, plural, one {# challan} other {# challans}}",
+    "selectToPay": "Select challans to pay",
+    "note": "Paying a challan closes it on the eChallan system instantly. Contested challans go to the Virtual Court; nothing is payable until a judge decides.",
+    "contestTitle": "Contest in Virtual Court",
+    "contestBody": "Challan {no} will be sent to the Virtual Court with the camera evidence and your reason.",
+    "contestNote": "You may be asked for proof (for example, a sale letter or hospital record). A decision usually comes within 30 days.",
+    "sendToCourt": "Send to Virtual Court",
+    "contestDone": "Sent to the Virtual Court",
+    "contestDoneBody": "You'll get an SMS when a judge reviews it. Track it anytime in Track.",
+    "done": "Done",
+    "howEvidence": "Every challan shows the camera frame, time and place it was recorded.",
+    "howPay": "Pay one or several at once by UPI — they close instantly.",
+    "howContest": "Think it's wrong? Send it to the Virtual Court with a reason."
+  },
+  "console": {
+    "brand": "Saathi for Departments",
+    "brandShort": "Gov",
+    "disclaimer": "A design concept with sample data — not a Government of India system.",
+    "nav": "Console",
+    "menu": "Menu",
+    "close": "Close",
+    "cancel": "Cancel",
+    "language": "Language",
+    "search": "Search by reference or name",
+    "sample": "Sample data",
+    "reset": "Reset console data",
+    "resetDone": "Console data reset",
+    "liveBadge": "Live",
+    "live": {
+      "title": "Linked to the citizen app",
+      "body": "Cases marked Live are the citizen's own applications. Open the app in another tab and decide here — it updates there instantly.",
+      "open": "Open citizen app"
+    },
+    "modules": {
+      "overview": "Overview",
+      "applications": "Applications",
+      "kyc": "e-KYC checks",
+      "records": "Records",
+      "payments": "Payments",
+      "challans": "Challans",
+      "exams": "Exams",
+      "dbt": "Benefit transfers",
+      "grievances": "Grievances",
+      "audit": "Audit log"
+    },
+    "stage": {
+      "new": "New",
+      "docCheck": "Document check",
+      "verification": "Verification",
+      "decision": "Awaiting decision",
+      "infoRequested": "Info requested",
+      "approved": "Approved",
+      "issued": "Issued",
+      "rejected": "Rejected"
+    },
+    "sla": {
+      "left": "{days, plural, =0 {Due today} one {# day left} other {# days left}}",
+      "overdue": "{days, plural, one {Overdue # day} other {Overdue # days}}"
+    },
+    "channel": {
+      "saathi": "via Saathi app",
+      "csc": "via Common Service Centre",
+      "portal": "via web portal"
+    },
+    "picker": {
+      "badge": "Officer sign-in · simulated",
+      "title": "Every service has a desk on the other side.",
+      "intro": "Choose your department. Each console manages exactly the services it owns — applications, e-KYC, records, payments and more — with every decision explained to the citizen and every look at their data logged.",
+      "search": "Search departments",
+      "services": "{count, plural, one {# service} other {# services}}",
+      "open": "{count, plural, =0 {No open cases} one {# open case} other {# open cases}}",
+      "note": "Sample offices, officers and cases in Kanpur, Uttar Pradesh. The citizen's own applications from the Saathi prototype appear as Live cases in the department that owns them."
+    },
+    "overview": {
+      "morning": "Good morning, {name}",
+      "afternoon": "Good afternoon, {name}",
+      "subtitle": "{office} · {open, plural, =0 {nothing waiting} one {# case waiting} other {# cases waiting}}",
+      "startQueue": "Start with the most urgent",
+      "kpiOpen": "Open cases",
+      "kpiOpenHint": "Waiting on this office",
+      "kpiDue": "Due within 2 days",
+      "kpiDueHint": "Inside the service time limit",
+      "kpiOverdue": "Overdue",
+      "kpiOverdueHint": "Past the time limit — citizen can escalate",
+      "kpiDecided": "Decided",
+      "kpiDecidedHint": "Approved, issued or rejected",
+      "intake": "Applications received",
+      "intakeHint": "{total} in the last 14 days",
+      "pipeline": "Where cases are",
+      "needsDecision": "Needs your decision",
+      "viewAll": "View all",
+      "queueEmpty": "Nothing waiting. Well done.",
+      "alsoToday": "Also in your office",
+      "challansPending": "{count, plural, =0 {No contests waiting} one {# contest waiting for the court} other {# contests waiting for the court}}",
+      "examsLive": "{count} exam cycles running",
+      "dbtAwaiting": "{count, plural, =0 {No batches waiting} one {# batch waiting for approval} other {# batches waiting for approval}}",
+      "activity": "Recent activity",
+      "activityEmpty": "Your decisions, document checks and every look at personal data will be logged here."
+    },
+    "apps": {
+      "subtitle": "{open} open of {total}. The citizen sees each decision, with the reason, in their own language.",
+      "filterOpen": "Needs action",
+      "filterInfo": "Info requested",
+      "filterDecided": "Decided",
+      "filterAll": "All",
+      "service": "Service",
+      "allServices": "All services",
+      "search": "Name or reference",
+      "colApplicant": "Applicant",
+      "colService": "Service",
+      "colRef": "Reference",
+      "colReceived": "Received",
+      "colSla": "Time limit",
+      "colStage": "Status",
+      "colFlags": "Checks",
+      "emptyTitle": "No applications here",
+      "emptyBody": "Try another filter or search.",
+      "keyboard": "Tip: press J and K to move through the list, Enter to open, / to search."
+    },
+    "case": {
+      "liveLong": "Live · citizen's application",
+      "genderF": "Female",
+      "genderM": "Male",
+      "age": "{age} yrs",
+      "tabOverview": "Overview",
+      "tabDocuments": "Documents",
+      "tabKyc": "e-KYC",
+      "tabTimeline": "Timeline",
+      "checks": "Automatic checks",
+      "check": "Check",
+      "allChecksPassed": "All automatic checks passed.",
+      "form": "Application",
+      "received": "Received",
+      "fee": "Fee",
+      "feePaid": "Paid",
+      "noDocuments": "This service needs no documents.",
+      "fromLocker": "From DigiLocker",
+      "uploaded": "Uploaded by the citizen",
+      "view": "View",
+      "issuerVerified": "Issuer-verified",
+      "verifiedByYou": "Verified by you",
+      "docRejected": "Rejected",
+      "verify": "Verify",
+      "rejectDoc": "Reject",
+      "docNote": "DigiLocker documents are signed by their issuer and need no checking. Uploaded ones need your eye.",
+      "viewLogged": "Opening a document is recorded in the audit log.",
+      "blockDocs": "{count, plural, one {# document to verify} other {# documents to verify}}",
+      "blockKyc": "e-KYC mismatch to resolve",
+      "approve": "Approve",
+      "requestInfo": "Request info",
+      "forward": "Forward",
+      "reject": "Reject",
+      "readyToIssue": "Approved. Sign and issue the record to close the case.",
+      "issue": "Issue {record}",
+      "waitingCitizen": "Waiting for the citizen to respond.",
+      "closedRejected": "Closed — rejected with a reason. The citizen can appeal.",
+      "closedIssued": "Closed — record issued to the citizen's DigiLocker.",
+      "citizenNotified": "citizen notified",
+      "approvedToast": "Approved",
+      "infoToast": "Request sent",
+      "rejectedToast": "Rejected",
+      "forwardedToast": "Forwarded",
+      "issuedToast": "Record issued to DigiLocker",
+      "approveTitle": "Approve this application?",
+      "approveBody": "{service} for {name}. Your digital signature will be added and the citizen informed.",
+      "esignNote": "Signs with your eSign certificate (simulated).",
+      "signApprove": "Sign & approve",
+      "signing": "Signing…",
+      "infoTitle": "Ask the citizen for something",
+      "infoBody": "Say exactly what's needed, in plain words. The clock pauses until they reply.",
+      "infoBodyLive": "This goes straight to the citizen's Saathi app, in their language. The clock pauses until they reply.",
+      "reason": "Reason",
+      "message": "Message to the citizen",
+      "plainLanguage": "Write as you would speak to them — no rule numbers, no jargon.",
+      "send": "Send request",
+      "rejectTitle": "Reject this application",
+      "rejectBody": "A rejection must cite the rule and explain why. The citizen sees both and can appeal.",
+      "explain": "Explain the decision",
+      "explainPlaceholder": "What was checked, what didn't meet the rule, and what they can do next.",
+      "appealNote": "The citizen gets an Appeal button that files a grievance with this reasoning attached.",
+      "confirmReject": "Reject with reason",
+      "forwardTitle": "Forward this case",
+      "forwardBody": "Send it to the next desk. The citizen sees who has it now.",
+      "forwardTo": {
+        "verification": "Field verification",
+        "decision": "Approving authority"
+      },
+      "forwardHint": {
+        "verification": "An inspector checks the address or premises in person.",
+        "decision": "Everything is checked — a senior officer decides."
+      },
+      "issueTitle": "Issue the record",
+      "issueBody": "The signed record is added to the register and a certified copy is available on request.",
+      "issueBodyLive": "The signed record goes straight into the citizen's DigiLocker and their app shows it as ready.",
+      "signIssue": "Sign & issue",
+      "issuing": "Issuing…"
+    },
+    "kyc": {
+      "subtitle": "Where a form and the Aadhaar record disagree. Personal data stays masked until you give a purpose — and the citizen can see that you looked.",
+      "pending": "To resolve · {count}",
+      "done": "Resolved · {count}",
+      "emptyTitle": "No mismatches waiting",
+      "emptyBody": "Every open case matches its e-KYC record.",
+      "resolvedShort": "Accepted",
+      "askedShort": "Update asked",
+      "principlesTitle": "How access works",
+      "p1": "Masked by default: only the last 4 Aadhaar digits are ever shown, never the full number.",
+      "p2": "Purpose first: you choose why before any personal data appears, and it's logged.",
+      "p3": "Visible to the citizen: every look appears in their privacy dashboard with your name and purpose.",
+      "accessLog": "Your recent e-KYC access",
+      "accessEmpty": "No personal data opened this session.",
+      "lockedTitle": "Personal data is masked",
+      "lockedBody": "Choose why you need to see this applicant's e-KYC record. Your access will be logged with that purpose.",
+      "lockedBodyLive": "Choose why you need to see this citizen's e-KYC record. They will see your name, the time and this purpose in their Saathi privacy dashboard.",
+      "purpose": "Purpose of access",
+      "unlock": "View e-KYC record",
+      "logged": "Access logged with purpose",
+      "loggedLive": "Access logged — visible to the citizen",
+      "name": "Name",
+      "dob": "Date of birth",
+      "gender": "Gender",
+      "address": "Address",
+      "aadhaar": "Aadhaar",
+      "face": "Face match",
+      "photoSample": "Sample",
+      "meta": "e-KYC via OTP · opened for: {purpose}",
+      "matchTitle": "Form vs Aadhaar",
+      "aadhaarSays": "Aadhaar:",
+      "formSays": "Form:",
+      "accept": "Accept the variation",
+      "askUpdate": "Ask citizen to update Aadhaar",
+      "acceptedToast": "Variation accepted",
+      "askToast": "Citizen asked to update Aadhaar",
+      "resolvedAccepted": "You accepted the variation — noted on the case.",
+      "resolvedAsk": "The citizen has been asked to update their Aadhaar.",
+      "footnote": "Data comes from UIDAI e-KYC for {office} only, is never stored outside this case, and is deleted when the case closes."
+    },
+    "record": {
+      "watermark": "Design concept",
+      "holder": "Issued to",
+      "number": "Number",
+      "issued": "Issued on",
+      "authority": "Issuing officer",
+      "signed": "Digitally signed by {officer}",
+      "unsigned": "Awaiting signature",
+      "sample": "Sample · not a real record"
+    },
+    "records": {
+      "subtitle": "The register of {records} this office has issued. Each carries a verifiable code and lives in the citizen's DigiLocker.",
+      "register": "Register · {count}",
+      "search": "Name or number",
+      "emptyTitle": "Nothing issued yet",
+      "emptyBody": "Approved cases appear here once you sign them.",
+      "inLocker": "In DigiLocker",
+      "awaitingSignature": "Needs signature",
+      "preview": "Record",
+      "print": "Print",
+      "printed": "Sent to the office printer",
+      "certifiedCopy": "Certified copy",
+      "copyIssued": "Certified copy of {ref} issued",
+      "note": "Received on {date}. Verification works offline by scanning the code."
+    },
+    "payments": {
+      "subtitle": "Every rupee collected, how it came in, and refunds — reconciled daily with the treasury.",
+      "collected": "Collected",
+      "transactions": "Transactions",
+      "upiShare": "Paid by UPI",
+      "ledger": "Ledger",
+      "empty": "No payments yet",
+      "colTxn": "Transaction",
+      "colPayer": "Payer",
+      "colPurpose": "For",
+      "colMode": "Mode",
+      "colAmount": "Amount",
+      "colStatus": "Status",
+      "status": {
+        "settled": "Settled",
+        "pending": "Pending",
+        "failed": "Failed"
+      },
+      "refunded": "Refunded",
+      "refund": "Refund",
+      "refundTitle": "Refund this payment?",
+      "refundBody": "{amount} will go back to {payer}'s original payment method within 5 working days.",
+      "confirmRefund": "Refund",
+      "refundToast": "Refund of {amount} started"
+    },
+    "challans": {
+      "subtitle": "Camera and officer challans in RTO Kanpur Nagar — payments, Virtual Court contests and new challans.",
+      "issue": "Issue e-challan",
+      "pending": "Unpaid",
+      "inCourt": "In Virtual Court",
+      "collected": "Collected",
+      "tabPending": "Unpaid",
+      "tabCourt": "Virtual Court",
+      "tabPaid": "Paid",
+      "colNo": "Challan",
+      "colVehicle": "Vehicle",
+      "colViolation": "Violation",
+      "colWhen": "When & where",
+      "colFine": "Fine",
+      "status": {
+        "pending": "Unpaid",
+        "court": "In court",
+        "paid": "Paid",
+        "withdrawn": "Withdrawn"
+      },
+      "statusNote": {
+        "pending": "Unpaid. The owner has been sent the challan by SMS and can pay or contest in Saathi.",
+        "paid": "Paid and closed.",
+        "withdrawn": "Withdrawn by the Virtual Court.",
+        "court": ""
+      },
+      "courtTitle": "Contested in the Virtual Court",
+      "courtBody": "Record the court's decision on this challan.",
+      "courtBodyLive": "The citizen contested this from their Saathi app. Record the court's decision — they'll be told immediately.",
+      "dismiss": "Withdraw challan",
+      "uphold": "Uphold challan",
+      "dismissedToast": "Challan {no} withdrawn",
+      "upheldToast": "Challan {no} upheld",
+      "issueTitle": "Issue an e-challan",
+      "issueBody": "The owner gets it by SMS with the evidence, and can pay or contest it in Saathi.",
+      "place": "Place",
+      "issueConfirm": "Issue challan",
+      "issuedToast": "e-Challan issued to {vehicle}"
+    },
+    "exams": {
+      "subtitle": "Run each exam from form to result: fees, photo checks, admit cards and publishing.",
+      "stage": {
+        "formsOpen": "Forms open",
+        "correction": "Correction window",
+        "admitCards": "Admit cards out",
+        "results": "Results out",
+        "published": "Results published"
+      },
+      "forms": "Forms",
+      "feePaid": "Fee paid",
+      "photoIssues": "Photo issues",
+      "examOn": "Exam on {date}",
+      "extended": "Deadline extended",
+      "extend": "Extend deadline",
+      "releaseAdmit": "Release admit cards",
+      "publishResults": "Publish results",
+      "inLocker": "Marksheets are in candidates' DigiLocker",
+      "photoQueue": "Photo & signature checks · {count}",
+      "accept": "Accept",
+      "accepted": "Accepted",
+      "askReupload": "Ask to re-upload",
+      "reuploadSent": "Re-upload asked",
+      "reuploadToast": "{name} asked to re-upload",
+      "toast": {
+        "admit": "Admit cards released for {exam}",
+        "results": "Results published for {exam}",
+        "deadline": "Deadline extended for {exam}"
+      },
+      "confirm": {
+        "admit": {
+          "title": "Release admit cards?",
+          "body": "{count} candidates of {exam} will get their admit card in Saathi and DigiLocker, with centre and shift.",
+          "cta": "Release"
+        },
+        "results": {
+          "title": "Publish results?",
+          "body": "Results for {exam} go live for {count} candidates, with marksheets pushed to DigiLocker. This can't be undone.",
+          "cta": "Publish"
+        },
+        "deadline": {
+          "title": "Extend the form deadline?",
+          "body": "Candidates of {exam} get 7 more days. Everyone who started a form is told by SMS.",
+          "cta": "Extend by 7 days"
+        }
+      }
+    },
+    "dbt": {
+      "subtitle": "Approve benefit payments that go straight to beneficiaries' Aadhaar-linked bank accounts.",
+      "empty": "No benefit transfers for this office",
+      "status": {
+        "awaiting": "Awaiting approval",
+        "sent": "Sent to PFMS",
+        "credited": "Credited"
+      },
+      "beneficiaries": "{count} beneficiaries",
+      "ready": "{count} ready",
+      "failed": "{count} need fixing",
+      "failedHint": "Unseeded accounts are held back, never dropped",
+      "approve": "Review & approve",
+      "creditedNote": "Credited to beneficiaries' accounts",
+      "sentNote": "With the bank for crediting",
+      "approveTitle": "Approve this batch?",
+      "approveBody": "{amount} to {count} beneficiaries. {failed} with account problems are held back and will be told how to fix them.",
+      "signSend": "Sign & send to PFMS",
+      "sentToast": "{amount} sent for {count} beneficiaries"
+    },
+    "griev": {
+      "subtitle": "Complaints about this office. Reply in plain words within {days} days — the citizen rates the answer.",
+      "open": "Grievances · {count} open",
+      "empty": "No grievances",
+      "reply": "Reply",
+      "escalate": "Escalate",
+      "resolved": "Resolved",
+      "escalated": "Escalated",
+      "replyTitle": "Reply and resolve",
+      "template": "Dear {name}, thank you for writing to us. We checked your case today: ",
+      "replyNote": "The citizen can reopen the grievance if they aren't satisfied with the answer.",
+      "sendResolve": "Send & resolve",
+      "resolvedToast": "{id} resolved",
+      "escalatedToast": "{id} escalated to the appellate officer"
+    },
+    "timeline": {
+      "received": "Application received {channel}",
+      "autoChecks": "Automatic checks: DigiLocker documents and e-KYC",
+      "citizenResponded": "Citizen responded with the requested document",
+      "system": "System"
+    },
+    "audit": {
+      "subtitle": "Every decision and every look at personal data, with who, when and why.",
+      "principle": "This log can't be edited. Entries about a citizen's own case also appear in their Saathi privacy dashboard — so officers can see the data they need, and citizens can see that they did.",
+      "export": "Export",
+      "exported": "{count} entries exported for audit",
+      "emptyTitle": "No entries yet",
+      "emptyBody": "Open a case, check a document or make a decision — it will appear here.",
+      "colWhen": "When",
+      "colAction": "Action",
+      "colSubject": "Case",
+      "colOfficer": "Officer",
+      "colPurpose": "Purpose / note",
+      "kind": {
+        "approved": "Approved",
+        "infoRequested": "Requested information",
+        "rejected": "Rejected",
+        "issued": "Issued record",
+        "forwarded": "Forwarded",
+        "viewedKyc": "Viewed e-KYC",
+        "viewedDocument": "Viewed document",
+        "docVerified": "Verified document",
+        "docRejected": "Rejected document",
+        "kycResolved": "Resolved e-KYC mismatch",
+        "challanIssued": "Issued e-challan",
+        "courtDecision": "Recorded court decision",
+        "refund": "Refunded payment",
+        "dbtApproved": "Approved benefit batch",
+        "admitReleased": "Released admit cards",
+        "resultsPublished": "Published results",
+        "deadlineExtended": "Extended deadline",
+        "photoAccepted": "Accepted photo",
+        "photoReupload": "Asked for re-upload",
+        "grievanceResolved": "Resolved grievance",
+        "grievanceEscalated": "Escalated grievance"
+      }
+    }
+  },
+  "languageSoon": {
+    "label": "Coming soon"
+  },
+  "eligibility": {
+    "eyebrow": "Eligibility check",
+    "title": "Schemes for me",
+    "intro": "Saathi checked all {count} schemes against your answers — what you qualify for, what needs one more check, and what isn't for you, with the reason for each.",
+    "summary": {
+      "yes": "You qualify",
+      "maybe": "Might qualify",
+      "no": "Not for you"
+    },
+    "answers": {
+      "title": "Your answers",
+      "note": "Filled in from what you told Saathi. Change anything — every scheme is checked again instantly.",
+      "age": "Age",
+      "income": "Family income a year",
+      "work": "Work"
+    },
+    "age": {
+      "18-40": "18–40",
+      "41-59": "41–59",
+      "60+": "60 or older"
+    },
+    "income": {
+      "low": "Under ₹2.5 lakh",
+      "mid": "₹2.5–8 lakh",
+      "high": "Over ₹8 lakh"
+    },
+    "work": {
+      "business": "Shop / small business",
+      "farmer": "Farmer",
+      "student": "Student",
+      "artisan": "Craftsperson",
+      "salaried": "Salaried job",
+      "other": "Other"
+    },
+    "flags": {
+      "ownsLand": "Farmland in my name",
+      "puccaHouse": "I already own a pucca house",
+      "pregnant": "Pregnant, or a baby in the last year",
+      "daughterUnder10": "A daughter under 10",
+      "taxpayer": "I pay income tax"
+    },
+    "filterLabel": "Show",
+    "filter": {
+      "all": "All schemes",
+      "yes": "Qualify",
+      "maybe": "Might qualify",
+      "no": "Not for me"
+    },
+    "verdict": {
+      "yes": "You qualify",
+      "maybe": "Might qualify — one more check",
+      "no": "Not for you right now"
+    },
+    "footnote": "A quick check from your answers. Saathi confirms with official records when you apply — and never applies without your yes.",
+    "reasons": {
+      "pmkisan": {
+        "ok": "You farm land in your name and don't pay income tax.",
+        "notFarmer": "Only for farmers who own farmland.",
+        "noLand": "The land has to be in your name.",
+        "taxpayer": "Income-tax payers are not covered."
+      },
+      "pmjay": {
+        "ok": "Your family income is in the covered range.",
+        "secc": "Depends on whether your family is on the SECC list — Saathi checks it for you.",
+        "income": "Meant for low-income families."
+      },
+      "pmay": {
+        "ok": "You don't own a pucca house and your income is in range.",
+        "hasHouse": "Only for families without a pucca house.",
+        "income": "Your income is above the limit."
+      },
+      "jsy": {
+        "ok": "Pregnant or a new mother, from a low-income family.",
+        "bpl": "In most states only BPL families get it — Saathi checks your state's rule.",
+        "notPregnant": "Only for pregnant women and new mothers."
+      },
+      "sukanya": {
+        "ok": "You can open a savings account for your daughter.",
+        "noDaughter": "Only for a daughter under 10."
+      },
+      "pmmvy": {
+        "ok": "Pregnant or a new mother — usually for the first living child.",
+        "notPregnant": "Only for pregnant women and new mothers."
+      },
+      "nsp": {
+        "ok": "You're a student within the income limit.",
+        "notStudent": "Only for enrolled students.",
+        "income": "Your family income is above the limit."
+      },
+      "apy": {
+        "ok": "You're 18–40 and don't pay income tax.",
+        "age": "You can join only between 18 and 40.",
+        "taxpayer": "Income-tax payers can't join."
+      },
+      "pmsby": {
+        "ok": "Anyone 18–70 with a bank account can join for ₹20 a year.",
+        "age70": "Covered until 70 — Saathi checks your exact age."
+      },
+      "ignoaps": {
+        "ok": "60 or older, from a low-income family.",
+        "bpl": "Usually only for BPL families — Saathi checks the list.",
+        "age": "Only for people 60 and older.",
+        "income": "Meant for low-income families."
+      },
+      "mudra": {
+        "ok": "Loans for a small business or trade, with no collateral.",
+        "noBusiness": "Only for small businesses and traders."
+      },
+      "vishwakarma": {
+        "ok": "Made for traditional craftspeople like you.",
+        "trades": "Only for 18 traditional trades — tell Saathi your trade to check.",
+        "notArtisan": "Only for traditional craftspeople."
+      }
+    }
+  }
+}

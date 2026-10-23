@@ -1,0 +1,580 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ *
+ * Bharat Precision — per-script type variables.
+ * The active script is set by a `lang-xx` class on <html> (I18nProvider +
+ * the no-flash script). next/font registers the --font-* faces on <html>,
+ * so these references resolve on the same element.
+ *
+ * Latin first in every stack: digits + Latin words stay in Geist while the
+ * Indic face (subset to its script) renders the native glyphs.
+ *   --font-ui       body + UI
+ *   --font-display  headlines
+ *   --lh-body-x     1.6 Latin / 1.8 Indic (UX4G)
+ *   --track-display tight negative tracking — Latin only
+ * Legacy v1 variables (--font-body, --lh-*) are kept for untouched screens.
+ * ------------------------------------------------------------------ */
+:root,
+html.lang-en {
+  --font-ui: var(--font-geist);
+  --font-display: var(--font-geist);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.6;
+  --lh-tight: 1.02;
+  --lh-snug: 1.15;
+  --track-display: -0.045em;
+  --track-tight: -0.022em;
+  --track-snug: -0.011em;
+
+  --lh-display: 44px;
+  --lh-heading: 30px;
+  --lh-body-l: 26px;
+  --lh-body: 24px;
+  --lh-label: 18px;
+  --lh-caption: 16px;
+}
+html.lang-hi {
+  --font-ui: var(--font-geist), var(--font-noto-deva);
+  --font-display: var(--font-geist), var(--font-anek-deva);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.22;
+  --lh-snug: 1.35;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+html.lang-bn {
+  --hero-scale: 0.9;
+  --font-ui: var(--font-geist), var(--font-noto-beng);
+  --font-display: var(--font-geist), var(--font-anek-bangla);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.22;
+  --lh-snug: 1.35;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+html.lang-ta {
+  --hero-scale: 0.74;
+  --hero-measure: 17ch;
+  --font-ui: var(--font-geist), var(--font-noto-taml);
+  --font-display: var(--font-geist), var(--font-anek-tamil);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.25;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+
+  --lh-display: 46px;
+  --lh-heading: 32px;
+  --lh-body-l: 28px;
+  --lh-body: 24px;
+  --lh-label: 19px;
+  --lh-caption: 17px;
+}
+
+/* Scripts added for the Eighth Schedule languages. South Indian and Odia
+ * letterforms are long, so display type steps down and wraps wider. */
+html.lang-te {
+  --font-ui: var(--font-geist), var(--font-noto-telu);
+  --font-display: var(--font-geist), var(--font-anek-telu);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.3;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+html.lang-gu {
+  --font-ui: var(--font-geist), var(--font-noto-gujr);
+  --font-display: var(--font-geist), var(--font-anek-gujr);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.25;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+html.lang-kn {
+  --font-ui: var(--font-geist), var(--font-noto-knda);
+  --font-display: var(--font-geist), var(--font-anek-knda);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.3;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+html.lang-ml {
+  --font-ui: var(--font-geist), var(--font-noto-mlym);
+  --font-display: var(--font-geist), var(--font-anek-mlym);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.3;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+html.lang-or {
+  --font-ui: var(--font-geist), var(--font-noto-orya);
+  --font-display: var(--font-geist), var(--font-anek-orya);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.3;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+html.lang-pa {
+  --font-ui: var(--font-geist), var(--font-noto-guru);
+  --font-display: var(--font-geist), var(--font-anek-guru);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.25;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+html.lang-mni {
+  --font-ui: var(--font-geist), var(--font-noto-mtei);
+  --font-display: var(--font-geist), var(--font-noto-mtei);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.3;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+}
+
+/* Perso-Arabic scripts: Nastaliq needs far more vertical room than Naskh. */
+html.lang-ur {
+  --font-ui: var(--font-geist), var(--font-nastaliq);
+  --font-display: var(--font-geist), var(--font-nastaliq);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.7;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+  --lh-body-x: 2.1;
+}
+
+html.lang-naskh {
+  --font-ui: var(--font-geist), var(--font-naskh);
+  --font-display: var(--font-geist), var(--font-naskh);
+  --font-body: var(--font-ui);
+  --lh-body-x: 1.8;
+  --lh-tight: 1.45;
+  --lh-snug: 1.38;
+  --track-display: 0em;
+  --track-tight: 0em;
+  --track-snug: 0em;
+  --hero-scale: 0.82;
+  --hero-measure: 16ch;
+
+  --lh-display: 48px;
+  --lh-heading: 34px;
+  --lh-body-l: 30px;
+  --lh-body: 26px;
+  --lh-label: 20px;
+  --lh-caption: 18px;
+  --lh-body-x: 1.9;
+}
+
+/* Right-to-left: mirror directional glyphs (chevrons, arrows) wherever they
+ * mean "forward" or "back". */
+[dir="rtl"] .rtl-mirror {
+  transform: scaleX(-1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background-color: #ffffff;
+    color: #0b0d14;
+    font-family: var(--font-ui), ui-sans-serif, system-ui, sans-serif;
+    font-feature-settings: "ss01", "cv11";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background: #dde5f8;
+    color: #0b0d14;
+  }
+
+  /* Visible keyboard focus — Chakra Navy ring, never on mouse/touch */
+  :where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
+    outline: 2px solid #1f43b8;
+    outline-offset: 3px;
+    border-radius: 8px;
+  }
+}
+
+@layer components {
+  /* Type scale — size fixed, leading reacts to the active script */
+  .t-display {
+    font-size: 36px;
+    line-height: var(--lh-display);
+    letter-spacing: -0.02em;
+  }
+  .t-heading {
+    font-size: 22px;
+    line-height: var(--lh-heading);
+    letter-spacing: -0.01em;
+  }
+  .t-body-l {
+    font-size: 17px;
+    line-height: var(--lh-body-l);
+  }
+  .t-body {
+    font-size: 15px;
+    line-height: var(--lh-body);
+  }
+  .t-label {
+    font-size: 13px;
+    line-height: var(--lh-label);
+  }
+  .t-caption {
+    font-size: 11px;
+    line-height: var(--lh-caption);
+  }
+}
+
+@layer utilities {
+  /* Hide scrollbars inside the device screen while keeping scroll */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* The first screen paints at once, without waiting for JavaScript. The server
+   renders [data-reveal] elements in their hidden starting state; inside a
+   [data-hero], a CSS entrance (which outranks those inline styles) plays on
+   first paint, and its end state keeps them shown after React takes over.
+   --d carries each element's stagger from the component. */
+[data-hero] [data-reveal] {
+  animation: hero-in 0.9s cubic-bezier(0.16, 1, 0.3, 1) var(--d, 0s) both;
+}
+[data-hero] h1 [data-reveal] {
+  animation-name: word-rise;
+  animation-duration: 0.95s;
+}
+@keyframes word-rise {
+  from {
+    opacity: 0;
+    transform: translateY(105%);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes hero-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-hero] [data-reveal],
+  [data-hero] h1 [data-reveal] {
+    animation: hero-fade 0.2s ease-out both;
+  }
+}
+@keyframes hero-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+html[data-capture] [data-hero] [data-reveal] {
+  animation: none;
+}
+
+/* Reveal safety net — content must never depend on JavaScript to be seen.
+   [data-reveal] elements start hidden for the entrance animation; force them
+   visible when JS is off (a <noscript> style in layout.tsx), when printing, and in
+   ?capture=1 mode used for static screenshots. */
+html[data-capture] [data-reveal] {
+  opacity: 1 !important;
+  transform: none !important;
+  filter: none !important;
+  clip-path: none !important;
+}
+@media print {
+  [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    clip-path: none !important;
+  }
+}
+
+/* Respect users who prefer reduced motion — collapse animations + transitions */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Smooth in-page anchor nav, offset for the sticky header */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+}
+
+/* Embedded prototype (inside a case-study iframe): drop the device stage so
+   only the phone shows, on a transparent background. */
+html.is-embedded,
+html.is-embedded body {
+  background: transparent !important;
+}
+html.is-embedded .proto-stage {
+  padding: 0 !important;
+  background: transparent !important;
+}
+html.is-embedded .proto-stage-art,
+html.is-embedded .proto-guide {
+  display: none !important;
+}
+html.is-embedded .proto-rail {
+  box-shadow: none !important;
+}
+
+/* Insets the screen reserves for the status bar and home indicator. In the
+   drawn iPhone they match its fake chrome; on a real phone, its safe areas. */
+.proto-screen {
+  --proto-top: 44px;
+  --proto-bottom: 0px;
+}
+
+/* On a real phone, open the prototype as the app itself: no drawn iPhone, no
+   fake status bar or notch, the screen fills the display (dvh tracks the
+   browser's collapsing toolbars). Not when embedded in the website's live phone. */
+@media (max-width: 640px) {
+  html:not(.is-embedded) .proto-stage {
+    padding: 0 !important;
+    min-height: 100dvh;
+    align-items: stretch;
+  }
+  html:not(.is-embedded) .proto-stage-art,
+  html:not(.is-embedded) .proto-chrome {
+    display: none !important;
+  }
+  html:not(.is-embedded) .proto-device {
+    width: 100% !important;
+  }
+  html:not(.is-embedded) .proto-rail,
+  html:not(.is-embedded) .proto-bezel {
+    padding: 0 !important;
+    border-radius: 0 !important;
+    background: none !important;
+    box-shadow: none !important;
+  }
+  html:not(.is-embedded) .proto-screen {
+    width: 100vw !important;
+    height: 100vh !important;
+    height: 100dvh !important;
+    border-radius: 0 !important;
+    --proto-top: max(12px, env(safe-area-inset-top));
+    --proto-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  /* The phone's own page must not scroll behind the app's scroll area. */
+  html:not(.is-embedded):has(.proto-screen),
+  html:not(.is-embedded):has(.proto-screen) body {
+    overflow: hidden;
+    height: 100dvh;
+    overscroll-behavior: none;
+  }
+}
+
+/* Slow mode — calmer pacing and roomier targets for people who need more time */
+.proto-slow * {
+  transition-duration: 450ms !important;
+}
+.proto-slow button,
+.proto-slow a {
+  min-height: 44px;
+}
+
+/* ---- Accessibility prefs (set in onboarding / My Saathi), scoped to the app ---- */
+/* Larger text: bump the type scale ~12% */
+.proto-large-text .t-display {
+  font-size: 40px;
+}
+.proto-large-text .t-heading {
+  font-size: 25px;
+}
+.proto-large-text .t-body-l {
+  font-size: 19px;
+}
+.proto-large-text .t-body {
+  font-size: 17px;
+}
+.proto-large-text .t-label {
+  font-size: 15px;
+}
+.proto-large-text .t-caption {
+  font-size: 12.5px;
+}
+/* High contrast: strengthen muted text + hairlines */
+.proto-contrast .text-ink-70 {
+  color: #1a1a1a;
+}
+.proto-contrast .text-ink-50 {
+  color: rgba(26, 26, 26, 0.85);
+}
+.proto-contrast .border-hairline {
+  border-color: #b8b0a0;
+}
+
+/* ---- Website accessibility preferences ---- */
+.site-contrast .text-ink-2,
+.site-contrast .text-ink-3 {
+  color: #0b0d14 !important;
+}
+.site-contrast .ring-line,
+.site-contrast .border-line {
+  --tw-ring-color: #6b7280 !important;
+  border-color: #6b7280 !important;
+}
+.site-contrast .bg-surface,
+.site-contrast .bg-surface2 {
+  background-color: #ffffff !important;
+  box-shadow: inset 0 0 0 1px #6b7280;
+}
+.site-still *,
+.site-still *::before,
+.site-still *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+}

@@ -1,0 +1,369 @@
+1	Saathi for Departments
+2	Gov
+3	A design concept with sample data — not a Government of India system.
+4	Console
+5	Menu
+6	Close
+7	Cancel
+8	Language
+9	Search by reference or name
+10	Sample data
+11	Reset console data
+12	Console data reset
+13	Live
+14	Linked to the citizen app
+15	Cases marked Live are the citizen's own applications. Open the app in another tab and decide here — it updates there instantly.
+16	Open citizen app
+17	Overview
+18	Applications
+19	e-KYC checks
+20	Records
+21	Payments
+22	Challans
+23	Exams
+24	Benefit transfers
+25	Grievances
+26	Audit log
+27	New
+28	Document check
+29	Verification
+30	Awaiting decision
+31	Info requested
+32	Approved
+33	Issued
+34	Rejected
+35	{days, plural, =0 {Due today} one {# day left} other {# days left}}
+36	{days, plural, one {Overdue # day} other {Overdue # days}}
+37	via Saathi app
+38	via Common Service Centre
+39	via web portal
+40	Officer sign-in · simulated
+41	Every service has a desk on the other side.
+42	Choose your department. Each console manages exactly the services it owns — applications, e-KYC, records, payments and more — with every decision explained to the citizen and every look at their data logged.
+43	Search departments
+44	{count, plural, one {# service} other {# services}}
+45	{count, plural, =0 {No open cases} one {# open case} other {# open cases}}
+46	Sample offices, officers and cases in Kanpur, Uttar Pradesh. The citizen's own applications from the Saathi prototype appear as Live cases in the department that owns them.
+47	Good morning, {name}
+48	Good afternoon, {name}
+49	{office} · {open, plural, =0 {nothing waiting} one {# case waiting} other {# cases waiting}}
+50	Start with the most urgent
+51	Open cases
+52	Waiting on this office
+53	Due within 2 days
+54	Inside the service time limit
+55	Overdue
+56	Past the time limit — citizen can escalate
+57	Decided
+58	Approved, issued or rejected
+59	Applications received
+60	{total} in the last 14 days
+61	Where cases are
+62	Needs your decision
+63	View all
+64	Nothing waiting. Well done.
+65	Also in your office
+66	{count, plural, =0 {No contests waiting} one {# contest waiting for the court} other {# contests waiting for the court}}
+67	{count} exam cycles running
+68	{count, plural, =0 {No batches waiting} one {# batch waiting for approval} other {# batches waiting for approval}}
+69	Recent activity
+70	Your decisions, document checks and every look at personal data will be logged here.
+71	{open} open of {total}. The citizen sees each decision, with the reason, in their own language.
+72	Needs action
+73	Info requested
+74	Decided
+75	All
+76	Service
+77	All services
+78	Name or reference
+79	Applicant
+80	Service
+81	Reference
+82	Received
+83	Time limit
+84	Status
+85	Checks
+86	No applications here
+87	Try another filter or search.
+88	Tip: press J and K to move through the list, Enter to open, / to search.
+89	Live · citizen's application
+90	Female
+91	Male
+92	{age} yrs
+93	Overview
+94	Documents
+95	Timeline
+96	Automatic checks
+97	Check
+98	All automatic checks passed.
+99	Application
+100	Received
+101	Fee
+102	Paid
+103	This service needs no documents.
+104	From DigiLocker
+105	Uploaded by the citizen
+106	View
+107	Issuer-verified
+108	Verified by you
+109	Rejected
+110	Verify
+111	Reject
+112	DigiLocker documents are signed by their issuer and need no checking. Uploaded ones need your eye.
+113	Opening a document is recorded in the audit log.
+114	{count, plural, one {# document to verify} other {# documents to verify}}
+115	e-KYC mismatch to resolve
+116	Approve
+117	Request info
+118	Forward
+119	Reject
+120	Approved. Sign and issue the record to close the case.
+121	Issue {record}
+122	Waiting for the citizen to respond.
+123	Closed — rejected with a reason. The citizen can appeal.
+124	Closed — record issued to the citizen's DigiLocker.
+125	citizen notified
+126	Approved
+127	Request sent
+128	Rejected
+129	Forwarded
+130	Record issued to DigiLocker
+131	Approve this application?
+132	{service} for {name}. Your digital signature will be added and the citizen informed.
+133	Signs with your eSign certificate (simulated).
+134	Sign & approve
+135	Signing…
+136	Ask the citizen for something
+137	Say exactly what's needed, in plain words. The clock pauses until they reply.
+138	This goes straight to the citizen's Saathi app, in their language. The clock pauses until they reply.
+139	Reason
+140	Message to the citizen
+141	Write as you would speak to them — no rule numbers, no jargon.
+142	Send request
+143	Reject this application
+144	A rejection must cite the rule and explain why. The citizen sees both and can appeal.
+145	Explain the decision
+146	What was checked, what didn't meet the rule, and what they can do next.
+147	The citizen gets an Appeal button that files a grievance with this reasoning attached.
+148	Reject with reason
+149	Forward this case
+150	Send it to the next desk. The citizen sees who has it now.
+151	Field verification
+152	Approving authority
+153	An inspector checks the address or premises in person.
+154	Everything is checked — a senior officer decides.
+155	Issue the record
+156	The signed record is added to the register and a certified copy is available on request.
+157	The signed record goes straight into the citizen's DigiLocker and their app shows it as ready.
+158	Sign & issue
+159	Issuing…
+160	Where a form and the Aadhaar record disagree. Personal data stays masked until you give a purpose — and the citizen can see that you looked.
+161	To resolve · {count}
+162	Resolved · {count}
+163	No mismatches waiting
+164	Every open case matches its e-KYC record.
+165	Accepted
+166	Update asked
+167	How access works
+168	Masked by default: only the last 4 Aadhaar digits are ever shown, never the full number.
+169	Purpose first: you choose why before any personal data appears, and it's logged.
+170	Visible to the citizen: every look appears in their privacy dashboard with your name and purpose.
+171	Your recent e-KYC access
+172	No personal data opened this session.
+173	Personal data is masked
+174	Choose why you need to see this applicant's e-KYC record. Your access will be logged with that purpose.
+175	Choose why you need to see this citizen's e-KYC record. They will see your name, the time and this purpose in their Saathi privacy dashboard.
+176	Purpose of access
+177	View e-KYC record
+178	Access logged with purpose
+179	Access logged — visible to the citizen
+180	Name
+181	Date of birth
+182	Gender
+183	Address
+184	Aadhaar
+185	Face match
+186	Sample
+187	e-KYC via OTP · opened for: {purpose}
+188	Form vs Aadhaar
+189	Aadhaar:
+190	Form:
+191	Accept the variation
+192	Ask citizen to update Aadhaar
+193	Variation accepted
+194	Citizen asked to update Aadhaar
+195	You accepted the variation — noted on the case.
+196	The citizen has been asked to update their Aadhaar.
+197	Data comes from UIDAI e-KYC for {office} only, is never stored outside this case, and is deleted when the case closes.
+198	Design concept
+199	Issued to
+200	Number
+201	Issued on
+202	Issuing officer
+203	Digitally signed by {officer}
+204	Awaiting signature
+205	Sample · not a real record
+206	The register of {records} this office has issued. Each carries a verifiable code and lives in the citizen's DigiLocker.
+207	Register · {count}
+208	Name or number
+209	Nothing issued yet
+210	Approved cases appear here once you sign them.
+211	In DigiLocker
+212	Needs signature
+213	Record
+214	Print
+215	Sent to the office printer
+216	Certified copy
+217	Certified copy of {ref} issued
+218	Received on {date}. Verification works offline by scanning the code.
+219	Every rupee collected, how it came in, and refunds — reconciled daily with the treasury.
+220	Collected
+221	Transactions
+222	Paid by UPI
+223	Ledger
+224	No payments yet
+225	Transaction
+226	Payer
+227	For
+228	Mode
+229	Amount
+230	Status
+231	Settled
+232	Pending
+233	Failed
+234	Refunded
+235	Refund
+236	Refund this payment?
+237	{amount} will go back to {payer}'s original payment method within 5 working days.
+238	Refund
+239	Refund of {amount} started
+240	Camera and officer challans in RTO Kanpur Nagar — payments, Virtual Court contests and new challans.
+241	Issue e-challan
+242	Unpaid
+243	In Virtual Court
+244	Collected
+245	Unpaid
+246	Virtual Court
+247	Paid
+248	Challan
+249	Vehicle
+250	Violation
+251	When & where
+252	Fine
+253	Unpaid
+254	In court
+255	Paid
+256	Withdrawn
+257	Unpaid. The owner has been sent the challan by SMS and can pay or contest in Saathi.
+258	Paid and closed.
+259	Withdrawn by the Virtual Court.
+260	Contested in the Virtual Court
+261	Record the court's decision on this challan.
+262	The citizen contested this from their Saathi app. Record the court's decision — they'll be told immediately.
+263	Withdraw challan
+264	Uphold challan
+265	Challan {no} withdrawn
+266	Challan {no} upheld
+267	Issue an e-challan
+268	The owner gets it by SMS with the evidence, and can pay or contest it in Saathi.
+269	Place
+270	Issue challan
+271	e-Challan issued to {vehicle}
+272	Run each exam from form to result: fees, photo checks, admit cards and publishing.
+273	Forms open
+274	Correction window
+275	Admit cards out
+276	Results out
+277	Results published
+278	Forms
+279	Fee paid
+280	Photo issues
+281	Exam on {date}
+282	Deadline extended
+283	Extend deadline
+284	Release admit cards
+285	Publish results
+286	Marksheets are in candidates' DigiLocker
+287	Photo & signature checks · {count}
+288	Accept
+289	Accepted
+290	Ask to re-upload
+291	Re-upload asked
+292	{name} asked to re-upload
+293	Admit cards released for {exam}
+294	Results published for {exam}
+295	Deadline extended for {exam}
+296	Release admit cards?
+297	{count} candidates of {exam} will get their admit card in Saathi and DigiLocker, with centre and shift.
+298	Release
+299	Publish results?
+300	Results for {exam} go live for {count} candidates, with marksheets pushed to DigiLocker. This can't be undone.
+301	Publish
+302	Extend the form deadline?
+303	Candidates of {exam} get 7 more days. Everyone who started a form is told by SMS.
+304	Extend by 7 days
+305	Approve benefit payments that go straight to beneficiaries' Aadhaar-linked bank accounts.
+306	No benefit transfers for this office
+307	Awaiting approval
+308	Sent to PFMS
+309	Credited
+310	{count} beneficiaries
+311	{count} ready
+312	{count} need fixing
+313	Unseeded accounts are held back, never dropped
+314	Review & approve
+315	Credited to beneficiaries' accounts
+316	With the bank for crediting
+317	Approve this batch?
+318	{amount} to {count} beneficiaries. {failed} with account problems are held back and will be told how to fix them.
+319	Sign & send to PFMS
+320	{amount} sent for {count} beneficiaries
+321	Complaints about this office. Reply in plain words within {days} days — the citizen rates the answer.
+322	Grievances · {count} open
+323	No grievances
+324	Reply
+325	Escalate
+326	Resolved
+327	Escalated
+328	Reply and resolve
+329	Dear {name}, thank you for writing to us. We checked your case today: 
+330	The citizen can reopen the grievance if they aren't satisfied with the answer.
+331	Send & resolve
+332	{id} resolved
+333	{id} escalated to the appellate officer
+334	Application received {channel}
+335	Automatic checks: DigiLocker documents and e-KYC
+336	Citizen responded with the requested document
+337	System
+338	Every decision and every look at personal data, with who, when and why.
+339	This log can't be edited. Entries about a citizen's own case also appear in their Saathi privacy dashboard — so officers can see the data they need, and citizens can see that they did.
+340	Export
+341	{count} entries exported for audit
+342	No entries yet
+343	Open a case, check a document or make a decision — it will appear here.
+344	When
+345	Action
+346	Case
+347	Officer
+348	Purpose / note
+349	Approved
+350	Requested information
+351	Rejected
+352	Issued record
+353	Forwarded
+354	Viewed e-KYC
+355	Viewed document
+356	Verified document
+357	Rejected document
+358	Resolved e-KYC mismatch
+359	Issued e-challan
+360	Recorded court decision
+361	Refunded payment
+362	Approved benefit batch
+363	Released admit cards
+364	Published results
+365	Extended deadline
+366	Accepted photo
+367	Asked for re-upload
+368	Resolved grievance
+369	Escalated grievance
